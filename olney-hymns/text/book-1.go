@@ -147,6 +147,7 @@ func main() {
 	records := ReadCSVToRecords("../olney.csv")
 	meterCol := 20
 	rowIndex := 1
+	cowperFlagCol := 15
 	const titleCol = 0
 
 	// 2. Output the XML chunk first
@@ -204,11 +205,17 @@ func main() {
 			fmt.Printf("Book: %s, %s, %s\n", hymn_number, title, scriptureRef)
 			csvTitle := records[rowIndex][titleCol]
 			csvTitle = strings.ReplaceAll(csvTitle, "'", "’")
+			cowperFlag := records[rowIndex][cowperFlagCol]
+			if cowperFlag == "No" || cowperFlag == "Yes" {
+				// then all is well
+			} else {
+				log.Fatalf("FATAL ERROR\n: Cowper flag not No or Yes: %v\n", cowperFlag)
+			}
 			fmt.Printf("CSV: %s, %s\n", records[rowIndex][meterCol], records[rowIndex][titleCol])
 			AssertStringsMatchCaseInsensitive(title, csvTitle)
 			// Now process the stanza lines
 			// Do this in a function using the current index i
-			process_stanzas(scriptureRef, title+".", hymn_number, i+1, lines, records[rowIndex][meterCol])
+			process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i+1, lines, records[rowIndex][meterCol])
 			rowIndex++
 			hymn_number = ""
 			hymn_title_line = ""
@@ -283,10 +290,15 @@ func printStanzaFooter() {
 	fileWriter(" 	</section>\n")
 }
 
-func process_stanzas(reference string, hymn_title string, hymn_number string, startIndex int, lines []string, meter string) {
+func process_stanzas(cowperFlag , reference , hymn_title , hymn_number string, startIndex int, lines []string, meter string) {
 	meterArray, meterCount := processAndCount(meter)
 	fmt.Printf("Meter %s has %v: %v\n", meter, meterCount, meterArray)
-
+	author := ""
+	if cowperFlag == "Yes" {
+		author = "Cowper"
+	} else {
+		author = "Newton"
+	}
 	// Print poem section heading lines
 	fileWriter(fmt.Sprintf("<section id=\"hymn-1-%v\" epub:type=\"z3998:hymn\">\n", hymn_number))
 	fileWriter("  <header>\n")
@@ -294,6 +306,7 @@ func process_stanzas(reference string, hymn_title string, hymn_number string, st
 	fileWriter(fmt.Sprintf("    <h3 epub:type=\"ordinal\">%v</h3>\n", hymn_number))
 	fileWriter(fmt.Sprintf("    <p epub:type=\"title\">%v</p>\n", hymn_title))
 	fileWriter("  </hgroup>\n")
+	fileWriter(fmt.Sprintf("  <p epub:type=\"z3998:contributors\">By %v</p>\n", author))
 	fileWriter(fmt.Sprintf("  <p epub:type=\"bridgehead\">%v</p>\n", reference))
 	fileWriter("  </header>\n")
 
