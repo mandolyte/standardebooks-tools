@@ -14,12 +14,12 @@ import (
 const xmlHeader string = `<?xml version="1.0" encoding="utf-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/, se: https://standardebooks.org/vocab/1.0" xml:lang="en-GB">
 <head>
-	<title>Chapter 1</title>
+	<title>$BOOKNUM$</title>
 	<link href="../css/core.css" rel="stylesheet" type="text/css"/>
 	<link href="../css/local.css" rel="stylesheet" type="text/css"/>
 </head>
 <body epub:type="bodymatter z3998:fiction">
-<section id="book-1" epub:type="part">
+<section id="$BOOKDASHNUM$" epub:type="part">
 `
 
 const xmlFooter string = `</section>
@@ -96,6 +96,7 @@ func ReadCSVToRecords(fileName string) [][]string {
 func processAndCount(input string) ([]int, int) {
 	// 1. Clean the string
 	cleaned := strings.TrimSuffix(input, "a")
+	cleaned = strings.TrimSuffix(cleaned, "D")
 
 	// 2. Split into segments
 	segments := strings.Split(cleaned, ",")
@@ -117,43 +118,55 @@ func processAndCount(input string) ([]int, int) {
 // Warning Global Variable
 // Global variables defined at the package level
 var (
-	ofile *os.File
-	oerr  error
+	ofile         *os.File
+	oerr          error
+	baseFileName  string
+	originalMeter string
 )
 
 func fileWriter(line string) {
 	_, oerr = ofile.WriteString(line)
 	if oerr != nil {
-		log.Fatalf("FATAL: Could not write to file book-1.txt: %v\n", oerr)
+		log.Fatalf("FATAL: Could not write to file book-2.txt: %v\n", oerr)
 	}
 }
 
 func main() {
 	// 1. Check for command line argument
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: go run main.go <filename>")
+		fmt.Println("Usage: go run book.go <base filename>")
 		return
 	}
+	baseFileName = os.Args[1]
 
 	// 1. Open (or create) the file for writing
 	// os.Create creates the file if it doesn't exist, or truncates it if it does.
-	ofile, oerr = os.Create("book-1.txt")
+	ofilename := baseFileName + ".txt"
+	ofile, oerr = os.Create(ofilename)
 	if oerr != nil {
-		log.Fatalf("FATAL: Could not create file book-1.txt: %v", oerr)
+		log.Fatalf("FATAL: Could not create file book-2.txt: %v", oerr)
 	}
 	defer ofile.Close()
 
-	fileName := os.Args[1]
-	records := ReadCSVToRecords("../olney.csv")
+	csvFilename := "../olney-" + baseFileName + ".csv"
+	records := ReadCSVToRecords(csvFilename)
 	meterCol := 20
 	rowIndex := 1
 	cowperFlagCol := 15
 	const titleCol = 0
 
 	// 2. Output the XML chunk first
-	fileWriter((xmlHeader))
+	//    a. first update the title for book
+	//    b. second, update the section
+	_bookTitle := baseFileName
+	_bookTitle = strings.ToTitle(_bookTitle)
+	_bookTitle = strings.Replace(_bookTitle, "-", " ", 1)
+	_xmlHeader := strings.Replace(xmlHeader, "$BOOKNUM$", _bookTitle, 1)
+	_xmlHeader = strings.Replace(_xmlHeader, "$BOOKDASHNUM$", baseFileName, 1)
+	fileWriter((_xmlHeader))
 
 	// 3. Open the file
+	fileName := baseFileName + ".xhtml"
 	file, err := os.Open(fileName)
 	if err != nil {
 		log.Fatalf("Error opening file: %s", err)
@@ -215,6 +228,7 @@ func main() {
 			AssertStringsMatchCaseInsensitive(title, csvTitle)
 			// Now process the stanza lines
 			// Do this in a function using the current index i
+			originalMeter = records[rowIndex][meterCol]
 			process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i+1, lines, records[rowIndex][meterCol])
 			rowIndex++
 			hymn_number = ""
@@ -229,7 +243,7 @@ func main() {
 
 func verify_stanza_data(hymn_number string, expected_line_count int, stanza_line_count int, which_stanza int) {
 	// Doubled hymns have twice the number of lines per stanza
-	doubled_hymns := map[string]bool{
+	doubled_hymns_book1 := map[string]bool{
 		"7.":   true,
 		"8.":   true,
 		"9.":   true,
@@ -255,7 +269,17 @@ func verify_stanza_data(hymn_number string, expected_line_count int, stanza_line
 		"127.": true,
 	}
 
-	if doubled_hymns[hymn_number] {
+	doubled_hymns_book2 := map[string]bool{
+		"41.": true,
+		"67.": true,
+		"79.": true,
+	}
+
+	if baseFileName == "book-1" && doubled_hymns_book1[hymn_number] {
+		stanza_line_count /= 2
+	} else if baseFileName == "book-2" && doubled_hymns_book2[hymn_number] {
+		stanza_line_count /= 2
+	} else if strings.HasSuffix(originalMeter, "D") {
 		stanza_line_count /= 2
 	}
 	if expected_line_count != stanza_line_count {
@@ -290,7 +314,7 @@ func printStanzaFooter() {
 	fileWriter(" 	</section>\n")
 }
 
-func process_stanzas(cowperFlag , reference , hymn_title , hymn_number string, startIndex int, lines []string, meter string) {
+func process_stanzas(cowperFlag, reference, hymn_title, hymn_number string, startIndex int, lines []string, meter string) {
 	meterArray, meterCount := processAndCount(meter)
 	fmt.Printf("Meter %s has %v: %v\n", meter, meterCount, meterArray)
 	author := ""
@@ -344,6 +368,7 @@ func process_stanzas(cowperFlag , reference , hymn_title , hymn_number string, s
 
 func printStanzaLine(stanza_line_count int, line string, meter string) {
 	smeter := strings.TrimSuffix(meter, "a")
+	smeter = strings.TrimSuffix(smeter, "D")
 	switch smeter {
 	case "8,6,8,6":
 		isEven := stanza_line_count%2 == 0
