@@ -225,11 +225,20 @@ func main() {
 				log.Fatalf("FATAL ERROR\n: Cowper flag not No or Yes: %v\n", cowperFlag)
 			}
 			fmt.Printf("CSV: %s, %s\n", records[rowIndex][meterCol], records[rowIndex][titleCol])
-			AssertStringsMatchCaseInsensitive(title, csvTitle)
-			// Now process the stanza lines
-			// Do this in a function using the current index i
-			originalMeter = records[rowIndex][meterCol]
-			process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i+1, lines, records[rowIndex][meterCol])
+			switch hymn_number {
+			case "89.", "90.", "91.", "92.", "94.", "95.", "98.", "102.", "103.", "104.", "105.", "106.", "107.":
+				// don't do the title compare
+				// Now process the stanza lines
+				// Do this in a function using the current index i
+				originalMeter = records[rowIndex][meterCol]
+				process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i, lines, records[rowIndex][meterCol])
+			default:
+				AssertStringsMatchCaseInsensitive(title, csvTitle)
+				// Now process the stanza lines
+				// Do this in a function using the current index i
+				originalMeter = records[rowIndex][meterCol]
+				process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i+1, lines, records[rowIndex][meterCol])
+			}
 			rowIndex++
 			hymn_number = ""
 			hymn_title_line = ""
@@ -275,9 +284,35 @@ func verify_stanza_data(hymn_number string, expected_line_count int, stanza_line
 		"79.": true,
 	}
 
+	doubled_hymns_book3 := map[string]bool{
+		"1.":   true,
+		"3.":   true,
+		"4.":   true,
+		"6.":   true,
+		"9.":   true,
+		"14.":  true,
+		"16.":  true,
+		"25.":  true,
+		"30.":  true,
+		"32.":  true,
+		"37.":  true,
+		"48.":  true,
+		"54.":  true,
+		"66.":  true,
+		"75.":  true,
+		"86.":  true,
+		"89.":  true,
+		"97.":  true,
+		"98.":  true,
+		"101.": true,
+		"102.": true,
+	}
+
 	if baseFileName == "book-1" && doubled_hymns_book1[hymn_number] {
 		stanza_line_count /= 2
 	} else if baseFileName == "book-2" && doubled_hymns_book2[hymn_number] {
+		stanza_line_count /= 2
+	} else if baseFileName == "book-3" && doubled_hymns_book3[hymn_number] {
 		stanza_line_count /= 2
 	} else if strings.HasSuffix(originalMeter, "D") {
 		stanza_line_count /= 2
@@ -436,6 +471,19 @@ func printStanzaLine(stanza_line_count int, line string, meter string) {
 		}
 	case "8,8,8,8,8,8":
 		line_no_indent(line)
+	case "10,10,10,10":
+		line_no_indent(line)
+	case "8,8,8":
+		line_no_indent(line)
+	case "7,6,7,6,7,7":
+		line_no_indent(line)
+	case "6,6,6,6,7,7":
+		switch stanza_line_count {
+		case 1, 2, 3, 4:
+			line_1_indent(line)
+		case 6, 7:
+			line_no_indent(line)
+		}
 	default:
 		// This stops the program and prints the offending value
 		log.Fatalf("FATAL: Unsupported meter format received: %q. Check your input data.", meter)
