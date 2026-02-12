@@ -10,6 +10,19 @@ import (
 	"strings"
 )
 
+var romanNumerals = map[int]string{
+	1:  "I",
+	2:  "II",
+	3:  "III",
+	4:  "IV",
+	5:  "V",
+	6:  "VI",
+	7:  "VII",
+	8:  "VIII",
+	9:  "IX",
+	10: "X",
+}
+
 // Define the XML chunk as a constant raw string literal
 const xmlHeader string = `<?xml version="1.0" encoding="utf-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/, se: https://standardebooks.org/vocab/1.0" xml:lang="en-GB">
@@ -160,9 +173,19 @@ func main() {
 	// 2. Output the XML chunk first
 	//    a. first update the title for book
 	//    b. second, update the section
-	_bookTitle := baseFileName
+	rnum := ""
+	if bookNum == "1" {
+		rnum = "I"
+	} else if bookNum == "2" {
+		rnum = "II"
+	} else if bookNum == "3" {
+		rnum = "III"
+	} else {
+		log.Fatalf("FATAL: bookNum must be 1, 2, or 3; was: %v", bookNum)
+	}
+	_bookTitle := "book " + rnum
 	_bookTitle = strings.ToTitle(_bookTitle)
-	_bookTitle = strings.Replace(_bookTitle, "-", " ", 1)
+	// _bookTitle = strings.Replace(_bookTitle, "-", " ", 1)
 	_xmlHeader := strings.Replace(xmlHeader, "$BOOKNUM$", _bookTitle, 1)
 	_xmlHeader = strings.Replace(_xmlHeader, "$BOOKDASHNUM$", baseFileName, 1)
 	fileWriter((_xmlHeader))
@@ -334,18 +357,6 @@ func verify_stanza_data(hymn_number string, expected_line_count int, stanza_line
 }
 
 func printStanzaHeader(hymn_number string, stanza_number int) {
-	romanNumerals := map[int]string{
-		1:  "I",
-		2:  "II",
-		3:  "III",
-		4:  "IV",
-		5:  "V",
-		6:  "VI",
-		7:  "VII",
-		8:  "VIII",
-		9:  "IX",
-		10: "X",
-	}
 	h := strings.TrimSuffix(hymn_number, ".")
 	fileWriter(fmt.Sprintf("<section id=\"stanza-%v-%v-%d>\n", bookNum, h, stanza_number))
 	fileWriter(" 	<header>\n")
