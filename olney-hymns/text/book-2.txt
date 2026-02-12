@@ -7,7 +7,7 @@
 </head>
 <body epub:type="bodymatter z3998:fiction">
 <section id="book-2" epub:type="part">
-<section id="hymn-1-1." epub:type="z3998:hymn">
+<section id="hymn-2-1." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">1.</h3>
@@ -16,7 +16,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-1-1>
+<section id="stanza-2-1-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -31,7 +31,7 @@
     <span>But how little—none can know.</span>
  	</p>
  	</section>
-<section id="stanza-1-1-2>
+<section id="stanza-2-1-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -46,7 +46,7 @@
     <span>All below is but a dream.</span>
  	</p>
  	</section>
-<section id="stanza-1-1-3>
+<section id="stanza-2-1-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -61,7 +61,7 @@
     <span>May we dwell with thee above!</span>
  	</p>
  	</section>
-<section id="hymn-1-2." epub:type="z3998:hymn">
+<section id="hymn-2-2." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">2.</h3>
@@ -70,7 +70,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-2-1>
+<section id="stanza-2-2-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -85,7 +85,7 @@
     <span>Graves will open soon for us.</span>
  	</p>
  	</section>
-<section id="stanza-1-2-2>
+<section id="stanza-2-2-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -100,7 +100,7 @@
     <span>Than to have our all below.</span>
  	</p>
  	</section>
-<section id="stanza-1-2-3>
+<section id="stanza-2-2-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -115,7 +115,7 @@
     <span>Cannot cheer a dying hour.</span>
  	</p>
  	</section>
-<section id="stanza-1-2-4>
+<section id="stanza-2-2-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -130,7 +130,7 @@
     <span>Lord, we long to see thy face!</span>
  	</p>
  	</section>
-<section id="hymn-1-3." epub:type="z3998:hymn">
+<section id="hymn-2-3." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">3.</h3>
@@ -139,7 +139,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-3-1>
+<section id="stanza-2-3-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -154,7 +154,7 @@
     <span>Should I be this year removed?</span>
  	</p>
  	</section>
-<section id="stanza-1-3-2>
+<section id="stanza-2-3-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -169,7 +169,7 @@
     <span>To the stroke of death must bow.</span>
  	</p>
  	</section>
-<section id="stanza-1-3-3>
+<section id="stanza-2-3-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -184,7 +184,7 @@
     <span>I am standing on the brink.</span>
  	</p>
  	</section>
-<section id="stanza-1-3-4>
+<section id="stanza-2-3-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -199,7 +199,7 @@
     <span>Is the last, which leads them home.</span>
  	</p>
  	</section>
-<section id="hymn-1-4." epub:type="z3998:hymn">
+<section id="hymn-2-4." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">4.</h3>
@@ -208,7 +208,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-4-1>
+<section id="stanza-2-4-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -223,7 +223,7 @@
     <span>Than the years before the flood.</span>
  	</p>
  	</section>
-<section id="stanza-1-4-2>
+<section id="stanza-2-4-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -238,7 +238,7 @@
     <span>Placed to each of our account?</span>
  	</p>
  	</section>
-<section id="stanza-1-4-3>
+<section id="stanza-2-4-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -253,7 +253,7 @@
     <span>Into prison you be cast!</span>
  	</p>
  	</section>
-<section id="stanza-1-4-4>
+<section id="stanza-2-4-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -268,7 +268,7 @@
     <span>Let them find forgiveness too.</span>
  	</p>
  	</section>
-<section id="stanza-1-4-5>
+<section id="stanza-2-4-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -283,7 +283,7 @@
     <span>Make this year a time of love.</span>
  	</p>
  	</section>
-<section id="hymn-1-5." epub:type="z3998:hymn">
+<section id="hymn-2-5." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">5.</h3>
@@ -292,7 +292,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-5-1>
+<section id="stanza-2-5-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -307,7 +307,7 @@
     <span>Then to others quit the stage.</span>
  	</p>
  	</section>
-<section id="stanza-1-5-2>
+<section id="stanza-2-5-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -322,7 +322,7 @@
     <span>Suddenly he mow'd them down!</span>
  	</p>
  	</section>
-<section id="stanza-1-5-3>
+<section id="stanza-2-5-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -337,7 +337,7 @@
     <span>Still he thirsts and calls for more.</span>
  	</p>
  	</section>
-<section id="stanza-1-5-4>
+<section id="stanza-2-5-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -352,7 +352,7 @@
     <span>When they saw the danger near.</span>
  	</p>
  	</section>
-<section id="stanza-1-5-5>
+<section id="stanza-2-5-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -367,7 +367,7 @@
     <span>Be to them a refuge too.</span>
  	</p>
  	</section>
-<section id="hymn-1-6." epub:type="z3998:hymn">
+<section id="hymn-2-6." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">6.</h3>
@@ -376,7 +376,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-6-1>
+<section id="stanza-2-6-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -391,7 +391,7 @@
     <span>Fill'd with sweets and joys appears.</span>
  	</p>
  	</section>
-<section id="stanza-1-6-2>
+<section id="stanza-2-6-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -406,7 +406,7 @@
     <span>Leaving not a trace behind.</span>
  	</p>
  	</section>
-<section id="stanza-1-6-3>
+<section id="stanza-2-6-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -421,7 +421,7 @@
     <span>Peace and joy can never grow</span>
  	</p>
  	</section>
-<section id="stanza-1-6-4>
+<section id="stanza-2-6-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -436,7 +436,7 @@
     <span>Once more calls you to repent.</span>
  	</p>
  	</section>
-<section id="stanza-1-6-5>
+<section id="stanza-2-6-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -451,7 +451,7 @@
     <span>Or this year should prove your last.</span>
  	</p>
  	</section>
-<section id="hymn-1-7." epub:type="z3998:hymn">
+<section id="hymn-2-7." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">7.</h3>
@@ -460,7 +460,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-7-1>
+<section id="stanza-2-7-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -471,7 +471,7 @@
       <span class="i1">And soften hearts of stone!</span>
  	</p>
  	</section>
-<section id="stanza-1-7-2>
+<section id="stanza-2-7-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -482,7 +482,7 @@
       <span class="i1">Is vanity and shame.</span>
  	</p>
  	</section>
-<section id="stanza-1-7-3>
+<section id="stanza-2-7-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -493,7 +493,7 @@
       <span class="i1">Begin and end with thee.</span>
  	</p>
  	</section>
-<section id="stanza-1-7-4>
+<section id="stanza-2-7-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -504,7 +504,7 @@
       <span class="i1">Who never loved before.</span>
  	</p>
  	</section>
-<section id="stanza-1-7-5>
+<section id="stanza-2-7-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -515,7 +515,7 @@
       <span class="i1">And praise thee in our room.</span>
  	</p>
  	</section>
-<section id="hymn-1-8." epub:type="z3998:hymn">
+<section id="hymn-2-8." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">8.</h3>
@@ -524,7 +524,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-8-1>
+<section id="stanza-2-8-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -535,7 +535,7 @@
       <span class="i1">Fall in a fruitful place.</span>
  	</p>
  	</section>
-<section id="stanza-1-8-2>
+<section id="stanza-2-8-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -546,7 +546,7 @@
       <span class="i1">And yields the sweetest fruit.</span>
  	</p>
  	</section>
-<section id="stanza-1-8-3>
+<section id="stanza-2-8-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -557,7 +557,7 @@
       <span class="i1">But mercy reigns above.</span>
  	</p>
  	</section>
-<section id="stanza-1-8-4>
+<section id="stanza-2-8-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -568,7 +568,7 @@
       <span class="i1">Would rob you of your rest.</span>
  	</p>
  	</section>
-<section id="stanza-1-8-5>
+<section id="stanza-2-8-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -579,7 +579,7 @@
       <span class="i1">Oh! shed yourselves a tear.</span>
  	</p>
  	</section>
-<section id="stanza-1-8-6>
+<section id="stanza-2-8-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -590,7 +590,7 @@
       <span class="i1">That Jesus whom we preach.</span>
  	</p>
  	</section>
-<section id="hymn-1-9." epub:type="z3998:hymn">
+<section id="hymn-2-9." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">9.</h3>
@@ -599,7 +599,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-9-1>
+<section id="stanza-2-9-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -610,7 +610,7 @@
     <span>Gracious answers from the throne.</span>
  	</p>
  	</section>
-<section id="stanza-1-9-2>
+<section id="stanza-2-9-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -621,7 +621,7 @@
     <span>Make us willing to be thine.</span>
  	</p>
  	</section>
-<section id="stanza-1-9-3>
+<section id="stanza-2-9-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -632,7 +632,7 @@
     <span>See themselves and look on thee!</span>
  	</p>
  	</section>
-<section id="stanza-1-9-4>
+<section id="stanza-2-9-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -643,7 +643,7 @@
     <span>May they learn to love and fear.</span>
  	</p>
  	</section>
-<section id="stanza-1-9-5>
+<section id="stanza-2-9-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -654,7 +654,7 @@
     <span>This shall melt a heart of steel.</span>
  	</p>
  	</section>
-<section id="stanza-1-9-6>
+<section id="stanza-2-9-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -665,7 +665,7 @@
     <span>Wipe away the mourner's tears.</span>
  	</p>
  	</section>
-<section id="stanza-1-9-7>
+<section id="stanza-2-9-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -676,7 +676,7 @@
     <span>All thy power and all thy love.</span>
  	</p>
  	</section>
-<section id="hymn-1-10." epub:type="z3998:hymn">
+<section id="hymn-2-10." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">10.</h3>
@@ -685,7 +685,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-10-1>
+<section id="stanza-2-10-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -696,7 +696,7 @@
     <span>He gladly let it down again.</span>
  	</p>
  	</section>
-<section id="stanza-1-10-2>
+<section id="stanza-2-10-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -707,7 +707,7 @@
     <span>To rest our hope on thee alone.</span>
  	</p>
  	</section>
-<section id="stanza-1-10-3>
+<section id="stanza-2-10-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -718,7 +718,7 @@
     <span>To seek thy gracious presence here.</span>
  	</p>
  	</section>
-<section id="stanza-1-10-4>
+<section id="stanza-2-10-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -729,7 +729,7 @@
     <span>To break the rocks and raise the dead!</span>
  	</p>
  	</section>
-<section id="stanza-1-10-5>
+<section id="stanza-2-10-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -740,7 +740,7 @@
     <span>Show them the state their souls are in.</span>
  	</p>
  	</section>
-<section id="stanza-1-10-6>
+<section id="stanza-2-10-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -751,7 +751,7 @@
     <span>And be their sun and strength and shield</span>
  	</p>
  	</section>
-<section id="stanza-1-10-7>
+<section id="stanza-2-10-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -762,7 +762,7 @@
     <span>And all thy saints in praises join.</span>
  	</p>
  	</section>
-<section id="stanza-1-10-8>
+<section id="stanza-2-10-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -773,7 +773,7 @@
     <span>To love and praise thee in our room.</span>
  	</p>
  	</section>
-<section id="hymn-1-11." epub:type="z3998:hymn">
+<section id="hymn-2-11." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">11.</h3>
@@ -782,7 +782,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-11-1>
+<section id="stanza-2-11-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -793,7 +793,7 @@
       <span class="i1">With his forgiving Lord.</span>
  	</p>
  	</section>
-<section id="stanza-1-11-2>
+<section id="stanza-2-11-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -804,7 +804,7 @@
       <span class="i1">Lord, save them by thy truth.</span>
  	</p>
  	</section>
-<section id="stanza-1-11-3>
+<section id="stanza-2-11-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -815,7 +815,7 @@
       <span class="i1">And thine almighty power.</span>
  	</p>
  	</section>
-<section id="stanza-1-11-4>
+<section id="stanza-2-11-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -826,7 +826,7 @@
       <span class="i1">To pour out prayer for you.</span>
  	</p>
  	</section>
-<section id="stanza-1-11-5>
+<section id="stanza-2-11-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -837,7 +837,7 @@
       <span class="i1">And flee the wrath to come!</span>
  	</p>
  	</section>
-<section id="stanza-1-11-6>
+<section id="stanza-2-11-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -848,7 +848,7 @@
       <span class="i1">"Prepare to meet thy God!"</span>
  	</p>
  	</section>
-<section id="hymn-1-12." epub:type="z3998:hymn">
+<section id="hymn-2-12." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">12.</h3>
@@ -857,7 +857,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-12-1>
+<section id="stanza-2-12-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -872,7 +872,7 @@
     <span>Let the children also go."</span>
  	</p>
  	</section>
-<section id="stanza-1-12-2>
+<section id="stanza-2-12-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -887,7 +887,7 @@
     <span>Plead the blood of Christ for these!</span>
  	</p>
  	</section>
-<section id="stanza-1-12-3>
+<section id="stanza-2-12-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -902,7 +902,7 @@
     <span>Stoop, and bear the brood away.</span>
  	</p>
  	</section>
-<section id="hymn-1-13." epub:type="z3998:hymn">
+<section id="hymn-2-13." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">13.</h3>
@@ -911,7 +911,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">2 Kings, iv, 31.</p>
   </header>
-<section id="stanza-1-13-1>
+<section id="stanza-2-13-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -922,7 +922,7 @@
     <span>Nor vain her application proved.</span>
  	</p>
  	</section>
-<section id="stanza-1-13-2>
+<section id="stanza-2-13-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -933,7 +933,7 @@
     <span>He left him as he found him, dead.</span>
  	</p>
  	</section>
-<section id="stanza-1-13-3>
+<section id="stanza-2-13-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -944,7 +944,7 @@
     <span>She saw her child restored from death.</span>
  	</p>
  	</section>
-<section id="stanza-1-13-4>
+<section id="stanza-2-13-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -955,7 +955,7 @@
     <span>Cause them to hear thy voice and live.</span>
  	</p>
  	</section>
-<section id="stanza-1-13-5>
+<section id="stanza-2-13-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -966,7 +966,7 @@
     <span>We find them dead, and leave them so.</span>
  	</p>
  	</section>
-<section id="stanza-1-13-6>
+<section id="stanza-2-13-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -977,7 +977,7 @@
     <span>The power and grace are thine alone.</span>
  	</p>
  	</section>
-<section id="hymn-1-14." epub:type="z3998:hymn">
+<section id="hymn-2-14." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">14.</h3>
@@ -986,7 +986,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">1 Kings, xviii.</p>
   </header>
-<section id="stanza-1-14-1>
+<section id="stanza-2-14-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -997,7 +997,7 @@
     <span>Whether the Lord was God or Baal?</span>
  	</p>
  	</section>
-<section id="stanza-1-14-2>
+<section id="stanza-2-14-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1008,7 +1008,7 @@
     <span>And makes to Heaven his great appeal.</span>
  	</p>
  	</section>
-<section id="stanza-1-14-3>
+<section id="stanza-2-14-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1019,7 +1019,7 @@
     <span>And show this people who thou art."</span>
  	</p>
  	</section>
-<section id="stanza-1-14-4>
+<section id="stanza-2-14-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1030,7 +1030,7 @@
     <span>"The Lord is God, the Lord alone."</span>
  	</p>
  	</section>
-<section id="stanza-1-14-5>
+<section id="stanza-2-14-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1041,7 +1041,7 @@
     <span>And may the God of Israel hear.</span>
  	</p>
  	</section>
-<section id="stanza-1-14-6>
+<section id="stanza-2-14-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1052,7 +1052,7 @@
     <span>And let them thy salvation see.</span>
  	</p>
  	</section>
-<section id="stanza-1-14-7>
+<section id="stanza-2-14-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1063,7 +1063,7 @@
     <span>And make them know thou art the Lord!</span>
  	</p>
  	</section>
-<section id="hymn-1-15." epub:type="z3998:hymn">
+<section id="hymn-2-15." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">15.</h3>
@@ -1072,7 +1072,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Ezek. xxxvii.</p>
   </header>
-<section id="stanza-1-15-1>
+<section id="stanza-2-15-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1083,7 +1083,7 @@
     <span>Should chase our unbelief away.</span>
  	</p>
  	</section>
-<section id="stanza-1-15-2>
+<section id="stanza-2-15-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1094,7 +1094,7 @@
     <span>Could raise up Abr'am's chosen seed.</span>
  	</p>
  	</section>
-<section id="stanza-1-15-3>
+<section id="stanza-2-15-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1105,7 +1105,7 @@
     <span>They shall, if thou commandment give."</span>
  	</p>
  	</section>
-<section id="stanza-1-15-4>
+<section id="stanza-2-15-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1116,7 +1116,7 @@
     <span>For he can cause the dead to hear.</span>
  	</p>
  	</section>
-<section id="stanza-1-15-5>
+<section id="stanza-2-15-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1127,7 +1127,7 @@
     <span>Says—"Look to me, dry bones, and live."</span>
  	</p>
  	</section>
-<section id="stanza-1-15-6>
+<section id="stanza-2-15-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1138,7 +1138,7 @@
     <span>And fill dry bones with living breath.</span>
  	</p>
  	</section>
-<section id="stanza-1-15-7>
+<section id="stanza-2-15-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1149,7 +1149,7 @@
     <span>And bone to bone unite in love.</span>
  	</p>
  	</section>
-<section id="hymn-1-16." epub:type="z3998:hymn">
+<section id="hymn-2-16." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">16.</h3>
@@ -1158,7 +1158,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-16-1>
+<section id="stanza-2-16-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1169,7 +1169,7 @@
     <span>Or gush'd in rivers from the rock.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-2>
+<section id="stanza-2-16-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1180,7 +1180,7 @@
     <span>His land in desolation laid.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-3>
+<section id="stanza-2-16-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1191,7 +1191,7 @@
     <span>And Moses but the instrument.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-4>
+<section id="stanza-2-16-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1202,7 +1202,7 @@
     <span>Display thy wonders in our sight.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-5>
+<section id="stanza-2-16-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1213,7 +1213,7 @@
     <span>For refuge may to Jesus fly.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-6>
+<section id="stanza-2-16-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1224,7 +1224,7 @@
     <span>That thou art near their griefs to heal.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-7>
+<section id="stanza-2-16-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1235,7 +1235,7 @@
     <span>That they may know and love thy truth.</span>
  	</p>
  	</section>
-<section id="stanza-1-16-8>
+<section id="stanza-2-16-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -1246,7 +1246,7 @@
     <span>How can the rod be raised in vain?</span>
  	</p>
  	</section>
-<section id="hymn-1-17." epub:type="z3998:hymn">
+<section id="hymn-2-17." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">17.</h3>
@@ -1255,7 +1255,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-17-1>
+<section id="stanza-2-17-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1266,7 +1266,7 @@
     <span>Invites us now to seek his face.</span>
  	</p>
  	</section>
-<section id="stanza-1-17-2>
+<section id="stanza-2-17-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1277,7 +1277,7 @@
     <span>Calling poor wand'rers home to God.</span>
  	</p>
  	</section>
-<section id="stanza-1-17-3>
+<section id="stanza-2-17-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1288,7 +1288,7 @@
     <span>Speaks to the sinner as a child.</span>
  	</p>
  	</section>
-<section id="stanza-1-17-4>
+<section id="stanza-2-17-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1299,7 +1299,7 @@
     <span>Poor sinner, look to me and live."</span>
  	</p>
  	</section>
-<section id="stanza-1-17-5>
+<section id="stanza-2-17-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1310,7 +1310,7 @@
     <span>This matchless love is preach'd in vain.</span>
  	</p>
  	</section>
-<section id="stanza-1-17-6>
+<section id="stanza-2-17-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1321,7 +1321,7 @@
     <span>The light and force of gospel truth.</span>
  	</p>
  	</section>
-<section id="stanza-1-17-7>
+<section id="stanza-2-17-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1332,7 +1332,7 @@
     <span>Which leads to everlasting day.</span>
  	</p>
  	</section>
-<section id="stanza-1-17-8>
+<section id="stanza-2-17-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -1343,7 +1343,7 @@
     <span>And the whole earth like Sinai burn!</span>
  	</p>
  	</section>
-<section id="hymn-1-18." epub:type="z3998:hymn">
+<section id="hymn-2-18." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">18.</h3>
@@ -1352,7 +1352,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-18-1>
+<section id="stanza-2-18-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1363,7 +1363,7 @@
     <span>And clothe with power the preacher's tongue.</span>
  	</p>
  	</section>
-<section id="stanza-1-18-2>
+<section id="stanza-2-18-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1374,7 +1374,7 @@
     <span>And make the careless sinner fear.</span>
  	</p>
  	</section>
-<section id="stanza-1-18-3>
+<section id="stanza-2-18-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1385,7 +1385,7 @@
     <span>Without thy wonder-working hand.</span>
  	</p>
  	</section>
-<section id="stanza-1-18-4>
+<section id="stanza-2-18-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1396,7 +1396,7 @@
     <span>And not the trumpet's feeble blast.</span>
  	</p>
  	</section>
-<section id="stanza-1-18-5>
+<section id="stanza-2-18-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1407,7 +1407,7 @@
     <span>Effectual to the promised end.</span>
  	</p>
  	</section>
-<section id="stanza-1-18-6>
+<section id="stanza-2-18-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1418,7 +1418,7 @@
     <span>In streams of sorrow at thy call.</span>
  	</p>
  	</section>
-<section id="stanza-1-18-7>
+<section id="stanza-2-18-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1429,7 +1429,7 @@
     <span>Lest thou shouldst strive and call no more.</span>
  	</p>
  	</section>
-<section id="hymn-1-19." epub:type="z3998:hymn">
+<section id="hymn-2-19." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">19.</h3>
@@ -1438,7 +1438,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">2 Kings, ii, 11-14.</p>
   </header>
-<section id="stanza-1-19-1>
+<section id="stanza-2-19-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1449,7 +1449,7 @@
     <span>Borne by a fiery car away.</span>
  	</p>
  	</section>
-<section id="stanza-1-19-2>
+<section id="stanza-2-19-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1460,7 +1460,7 @@
     <span>And equal miracles he wrought.</span>
  	</p>
  	</section>
-<section id="stanza-1-19-3>
+<section id="stanza-2-19-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1471,7 +1471,7 @@
     <span>Th' obedient waters upright stood.</span>
  	</p>
  	</section>
-<section id="stanza-1-19-4>
+<section id="stanza-2-19-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1482,7 +1482,7 @@
     <span>But where, O where's the Spirit's aid?</span>
  	</p>
  	</section>
-<section id="stanza-1-19-5>
+<section id="stanza-2-19-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1493,7 +1493,7 @@
     <span>But now how few its virtues feel!</span>
  	</p>
  	</section>
-<section id="stanza-1-19-6>
+<section id="stanza-2-19-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1504,7 +1504,7 @@
     <span>Give us another Pentecost!</span>
  	</p>
  	</section>
-<section id="stanza-1-19-7>
+<section id="stanza-2-19-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1515,7 +1515,7 @@
     <span>And pour thy blessing on our youth.</span>
  	</p>
  	</section>
-<section id="stanza-1-19-8>
+<section id="stanza-2-19-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -1526,7 +1526,7 @@
     <span>Elijah's God is still the same.</span>
  	</p>
  	</section>
-<section id="hymn-1-20." epub:type="z3998:hymn">
+<section id="hymn-2-20." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">20.</h3>
@@ -1535,7 +1535,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">1 Chron. xxviii, 9.</p>
   </header>
-<section id="stanza-1-20-1>
+<section id="stanza-2-20-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1546,7 +1546,7 @@
     <span>And teach our youth to know thy name.</span>
  	</p>
  	</section>
-<section id="stanza-1-20-2>
+<section id="stanza-2-20-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1557,7 +1557,7 @@
     <span>And wait thy word to call us home.</span>
  	</p>
  	</section>
-<section id="stanza-1-20-3>
+<section id="stanza-2-20-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1568,7 +1568,7 @@
     <span>The children we must leave behind.</span>
  	</p>
  	</section>
-<section id="stanza-1-20-4>
+<section id="stanza-2-20-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1579,7 +1579,7 @@
     <span>That these may praise thee in our room</span>
  	</p>
  	</section>
-<section id="stanza-1-20-5>
+<section id="stanza-2-20-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1590,7 +1590,7 @@
     <span>And be to them a cov'nant God.</span>
  	</p>
  	</section>
-<section id="stanza-1-20-6>
+<section id="stanza-2-20-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1601,7 +1601,7 @@
     <span>To dwell for ever near thy throne.</span>
  	</p>
  	</section>
-<section id="hymn-1-21." epub:type="z3998:hymn">
+<section id="hymn-2-21." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">21.</h3>
@@ -1610,7 +1610,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">2 Cor. vi, 17, 18.</p>
   </header>
-<section id="stanza-1-21-1>
+<section id="stanza-2-21-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1621,7 +1621,7 @@
       <span class="i1">And every word is love.</span>
  	</p>
  	</section>
-<section id="stanza-1-21-2>
+<section id="stanza-2-21-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1632,7 +1632,7 @@
       <span class="i1">Amongst our sinful race.</span>
  	</p>
  	</section>
-<section id="stanza-1-21-3>
+<section id="stanza-2-21-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1643,7 +1643,7 @@
       <span class="i1">In his appointed hour.</span>
  	</p>
  	</section>
-<section id="stanza-1-21-4>
+<section id="stanza-2-21-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1654,7 +1654,7 @@
       <span class="i1">Look, and be saved by faith.</span>
  	</p>
  	</section>
-<section id="stanza-1-21-5>
+<section id="stanza-2-21-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1665,7 +1665,7 @@
       <span class="i1">A Father and a God."</span>
  	</p>
  	</section>
-<section id="stanza-1-21-6>
+<section id="stanza-2-21-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1676,7 +1676,7 @@
       <span class="i1">And make thy love our choice.</span>
  	</p>
  	</section>
-<section id="stanza-1-21-7>
+<section id="stanza-2-21-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1687,7 +1687,7 @@
       <span class="i1">Through an eternal day.</span>
  	</p>
  	</section>
-<section id="hymn-1-22." epub:type="z3998:hymn">
+<section id="hymn-2-22." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">22.</h3>
@@ -1696,7 +1696,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">1 Chron. iv, 9, 10.</p>
   </header>
-<section id="stanza-1-22-1>
+<section id="stanza-2-22-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1707,7 +1707,7 @@
       <span class="i1">And answered Jabez' prayer.</span>
  	</p>
  	</section>
-<section id="stanza-1-22-2>
+<section id="stanza-2-22-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1718,7 +1718,7 @@
       <span class="i1">To save our souls from hell.</span>
  	</p>
  	</section>
-<section id="stanza-1-22-3>
+<section id="stanza-2-22-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1729,7 +1729,7 @@
       <span class="i1">With light and joy and love.</span>
  	</p>
  	</section>
-<section id="stanza-1-22-4>
+<section id="stanza-2-22-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1740,7 +1740,7 @@
       <span class="i1">With unbelief and sin.</span>
  	</p>
  	</section>
-<section id="stanza-1-22-5>
+<section id="stanza-2-22-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1751,7 +1751,7 @@
       <span class="i1">He can thy work control.</span>
  	</p>
  	</section>
-<section id="stanza-1-22-6>
+<section id="stanza-2-22-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1762,7 +1762,7 @@
       <span class="i1">Till death shall set us free.</span>
  	</p>
  	</section>
-<section id="stanza-1-22-7>
+<section id="stanza-2-22-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1773,7 +1773,7 @@
       <span class="i1">Will grant us our request.</span>
  	</p>
  	</section>
-<section id="hymn-1-23." epub:type="z3998:hymn">
+<section id="hymn-2-23." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">23.</h3>
@@ -1782,7 +1782,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Prov. viii, 34, 35.</p>
   </header>
-<section id="stanza-1-23-1>
+<section id="stanza-2-23-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1793,7 +1793,7 @@
       <span class="i1">To hear what Wisdom says!</span>
  	</p>
  	</section>
-<section id="stanza-1-23-2>
+<section id="stanza-2-23-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1804,7 +1804,7 @@
       <span class="i1">To make them truly blest.</span>
  	</p>
  	</section>
-<section id="stanza-1-23-3>
+<section id="stanza-2-23-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1815,7 +1815,7 @@
       <span class="i1">Shall e'er be turn'd away.</span>
  	</p>
  	</section>
-<section id="stanza-1-23-4>
+<section id="stanza-2-23-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1826,7 +1826,7 @@
       <span class="i1">And favour from the Lord.</span>
  	</p>
  	</section>
-<section id="stanza-1-23-5>
+<section id="stanza-2-23-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1837,7 +1837,7 @@
       <span class="i1">In slighting all thy grace.</span>
  	</p>
  	</section>
-<section id="stanza-1-23-6>
+<section id="stanza-2-23-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1848,7 +1848,7 @@
       <span class="i1">Secure me for thine own.</span>
  	</p>
  	</section>
-<section id="stanza-1-23-7>
+<section id="stanza-2-23-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -1859,7 +1859,7 @@
       <span class="i1">To make the Lord my choice.</span>
  	</p>
  	</section>
-<section id="hymn-1-24." epub:type="z3998:hymn">
+<section id="hymn-2-24." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">24.</h3>
@@ -1868,7 +1868,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Jer. 1, 5.</p>
   </header>
-<section id="stanza-1-24-1>
+<section id="stanza-2-24-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1879,7 +1879,7 @@
       <span class="i1">And sinners see his face!</span>
  	</p>
  	</section>
-<section id="stanza-1-24-2>
+<section id="stanza-2-24-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1890,7 +1890,7 @@
       <span class="i1">And wall'd around with love.</span>
  	</p>
  	</section>
-<section id="stanza-1-24-3>
+<section id="stanza-2-24-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1901,7 +1901,7 @@
       <span class="i1">The soul to satisfy.</span>
  	</p>
  	</section>
-<section id="stanza-1-24-4>
+<section id="stanza-2-24-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1912,7 +1912,7 @@
       <span class="i1">Be henceforth your desire.</span>
  	</p>
  	</section>
-<section id="stanza-1-24-5>
+<section id="stanza-2-24-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1923,7 +1923,7 @@
       <span class="i1">And Jesus is the way.</span>
  	</p>
  	</section>
-<section id="stanza-1-24-6>
+<section id="stanza-2-24-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -1934,7 +1934,7 @@
       <span class="i1">To dwell on Zion's hill.</span>
  	</p>
  	</section>
-<section id="hymn-1-25." epub:type="z3998:hymn">
+<section id="hymn-2-25." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">25.</h3>
@@ -1943,7 +1943,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Deut. vi, 20-23.</p>
   </header>
-<section id="stanza-1-25-1>
+<section id="stanza-2-25-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -1954,7 +1954,7 @@
       <span class="i1">And gave the weary rest.</span>
  	</p>
  	</section>
-<section id="stanza-1-25-2>
+<section id="stanza-2-25-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -1965,7 +1965,7 @@
       <span class="i1">And claim'd us for his own.</span>
  	</p>
  	</section>
-<section id="stanza-1-25-3>
+<section id="stanza-2-25-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -1976,7 +1976,7 @@
       <span class="i1">In wonder, love, and praise.</span>
  	</p>
  	</section>
-<section id="stanza-1-25-4>
+<section id="stanza-2-25-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -1987,7 +1987,7 @@
       <span class="i1">The riches of his love.</span>
  	</p>
  	</section>
-<section id="stanza-1-25-5>
+<section id="stanza-2-25-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -1998,7 +1998,7 @@
       <span class="i1">His mercy and his truth!</span>
  	</p>
  	</section>
-<section id="stanza-1-25-6>
+<section id="stanza-2-25-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2009,7 +2009,7 @@
       <span class="i1">To serve him in our room,</span>
  	</p>
  	</section>
-<section id="stanza-1-25-7>
+<section id="stanza-2-25-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -2020,7 +2020,7 @@
       <span class="i1">When we can speak no more.</span>
  	</p>
  	</section>
-<section id="hymn-1-26." epub:type="z3998:hymn">
+<section id="hymn-2-26." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">26.</h3>
@@ -2029,7 +2029,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Gal. iv, 19.</p>
   </header>
-<section id="stanza-1-26-1>
+<section id="stanza-2-26-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2042,7 +2042,7 @@
     <span>For equal honour or disgrace!</span>
  	</p>
  	</section>
-<section id="stanza-1-26-2>
+<section id="stanza-2-26-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2055,7 +2055,7 @@
     <span>When stubborn hearts begin to melt!</span>
  	</p>
  	</section>
-<section id="stanza-1-26-3>
+<section id="stanza-2-26-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2068,7 +2068,7 @@
     <span>Till Christ be form'd in sinners' hearts.</span>
  	</p>
  	</section>
-<section id="stanza-1-26-4>
+<section id="stanza-2-26-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2081,7 +2081,7 @@
     <span>Then how their inmost souls are grieved!</span>
  	</p>
  	</section>
-<section id="stanza-1-26-5>
+<section id="stanza-2-26-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2094,7 +2094,7 @@
     <span>To find the fruit of all their cares.</span>
  	</p>
  	</section>
-<section id="stanza-1-26-6>
+<section id="stanza-2-26-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2107,7 +2107,7 @@
     <span>And thou alone shalt have the praise.</span>
  	</p>
  	</section>
-<section id="hymn-1-27." epub:type="z3998:hymn">
+<section id="hymn-2-27." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">27.</h3>
@@ -2116,7 +2116,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">2 Cor. v, 20.</p>
   </header>
-<section id="stanza-1-27-1>
+<section id="stanza-2-27-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2127,7 +2127,7 @@
       <span class="i1">The word is not his own.</span>
  	</p>
  	</section>
-<section id="stanza-1-27-2>
+<section id="stanza-2-27-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2138,7 +2138,7 @@
       <span class="i1">And fought against thy grace.</span>
  	</p>
  	</section>
-<section id="stanza-1-27-3>
+<section id="stanza-2-27-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2149,7 +2149,7 @@
       <span class="i1">And call them to repent.</span>
  	</p>
  	</section>
-<section id="stanza-1-27-4>
+<section id="stanza-2-27-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2160,7 +2160,7 @@
       <span class="i1">And make you heir of heaven.</span>
  	</p>
  	</section>
-<section id="stanza-1-27-5>
+<section id="stanza-2-27-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2171,7 +2171,7 @@
       <span class="i1">Your joy in hoary age.</span>
  	</p>
  	</section>
-<section id="stanza-1-27-6>
+<section id="stanza-2-27-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2182,7 +2182,7 @@
       <span class="i1">The day of grace be past.</span>
  	</p>
  	</section>
-<section id="stanza-1-27-7>
+<section id="stanza-2-27-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -2193,7 +2193,7 @@
       <span class="i1">What answer will you make?</span>
  	</p>
  	</section>
-<section id="hymn-1-28." epub:type="z3998:hymn">
+<section id="hymn-2-28." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">28.</h3>
@@ -2202,7 +2202,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Acts, xx, 26, 27.</p>
   </header>
-<section id="stanza-1-28-1>
+<section id="stanza-2-28-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2213,7 +2213,7 @@
       <span class="i1">And wiped their tears away.</span>
  	</p>
  	</section>
-<section id="stanza-1-28-2>
+<section id="stanza-2-28-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2224,7 +2224,7 @@
       <span class="i1">And pleasure fills each heart.</span>
  	</p>
  	</section>
-<section id="stanza-1-28-3>
+<section id="stanza-2-28-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2235,7 +2235,7 @@
       <span class="i1">And worship at his feet.</span>
  	</p>
  	</section>
-<section id="stanza-1-28-4>
+<section id="stanza-2-28-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2246,7 +2246,7 @@
       <span class="i1">The ministers they scorn'd.</span>
  	</p>
  	</section>
-<section id="stanza-1-28-5>
+<section id="stanza-2-28-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2257,7 +2257,7 @@
       <span class="i1">Shall stand approved and clear.</span>
  	</p>
  	</section>
-<section id="stanza-1-28-6>
+<section id="stanza-2-28-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2268,7 +2268,7 @@
       <span class="i1">And save their hearers too.</span>
  	</p>
  	</section>
-<section id="hymn-1-29." epub:type="z3998:hymn">
+<section id="hymn-2-29." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">29.</h3>
@@ -2277,7 +2277,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Jer. iii, 19.</p>
   </header>
-<section id="stanza-1-29-1>
+<section id="stanza-2-29-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2288,7 +2288,7 @@
       <span class="i1">How obstinate our will!</span>
  	</p>
  	</section>
-<section id="stanza-1-29-2>
+<section id="stanza-2-29-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2299,7 +2299,7 @@
       <span class="i1">To make a foe a child?</span>
  	</p>
  	</section>
-<section id="stanza-1-29-3>
+<section id="stanza-2-29-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2310,7 +2310,7 @@
       <span class="i1">And teach our hearts to love.</span>
  	</p>
  	</section>
-<section id="stanza-1-29-4>
+<section id="stanza-2-29-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2321,7 +2321,7 @@
       <span class="i1">And cries aloud, "Forgive!"</span>
  	</p>
  	</section>
-<section id="stanza-1-29-5>
+<section id="stanza-2-29-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2332,7 +2332,7 @@
       <span class="i1">And trample on his blood.</span>
  	</p>
  	</section>
-<section id="stanza-1-29-6>
+<section id="stanza-2-29-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2343,7 +2343,7 @@
       <span class="i1">A new and heav'nly birth.</span>
  	</p>
  	</section>
-<section id="stanza-1-29-7>
+<section id="stanza-2-29-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -2354,7 +2354,7 @@
       <span class="i1">A son's and daughter's place.</span>
  	</p>
  	</section>
-<section id="hymn-1-30." epub:type="z3998:hymn">
+<section id="hymn-2-30." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">30.</h3>
@@ -2363,7 +2363,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-30-1>
+<section id="stanza-2-30-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2374,7 +2374,7 @@
     <span>And spread new beauties all around.</span>
  	</p>
  	</section>
-<section id="stanza-1-30-2>
+<section id="stanza-2-30-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2385,7 +2385,7 @@
     <span>And bid my graces grow again?</span>
  	</p>
  	</section>
-<section id="stanza-1-30-3>
+<section id="stanza-2-30-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2396,7 +2396,7 @@
     <span>And let me feel thy vital love!</span>
  	</p>
  	</section>
-<section id="stanza-1-30-4>
+<section id="stanza-2-30-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2407,7 +2407,7 @@
     <span>Must it be winter all the year.</span>
  	</p>
  	</section>
-<section id="stanza-1-30-5>
+<section id="stanza-2-30-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2418,7 +2418,7 @@
     <span>Repose on what his promise saith.</span>
  	</p>
  	</section>
-<section id="stanza-1-30-6>
+<section id="stanza-2-30-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2429,7 +2429,7 @@
     <span>That none shall seek his face in vain.</span>
  	</p>
  	</section>
-<section id="hymn-1-31." epub:type="z3998:hymn">
+<section id="hymn-2-31." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">31.</h3>
@@ -2438,7 +2438,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-31-1>
+<section id="stanza-2-31-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2449,7 +2449,7 @@
     <span>And nature wear a vernal smile.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-2>
+<section id="stanza-2-31-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2460,7 +2460,7 @@
     <span>Perfume the air and paint the ground.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-3>
+<section id="stanza-2-31-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2471,7 +2471,7 @@
     <span>The spring and summer shall not fail.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-4>
+<section id="stanza-2-31-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2482,7 +2482,7 @@
     <span>And all their former life renew.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-5>
+<section id="stanza-2-31-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2493,7 +2493,7 @@
     <span>The other makes their graces grow.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-6>
+<section id="stanza-2-31-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2504,7 +2504,7 @@
     <span>Draws forth their blossoms, leaves, and fruit.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-7>
+<section id="stanza-2-31-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -2515,7 +2515,7 @@
     <span>Proclaims it only fit to burn.</span>
  	</p>
  	</section>
-<section id="stanza-1-31-8>
+<section id="stanza-2-31-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -2526,7 +2526,7 @@
     <span>And thy rich grace shall be our song.</span>
  	</p>
  	</section>
-<section id="hymn-1-32." epub:type="z3998:hymn">
+<section id="hymn-2-32." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">32.</h3>
@@ -2535,7 +2535,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-32-1>
+<section id="stanza-2-32-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2546,7 +2546,7 @@
       <span class="i1">And driven him away.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-2>
+<section id="stanza-2-32-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2557,7 +2557,7 @@
       <span class="i1">The earth array'd in green.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-3>
+<section id="stanza-2-32-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2568,7 +2568,7 @@
       <span class="i1">Invite our hearts to sing.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-4>
+<section id="stanza-2-32-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2579,7 +2579,7 @@
       <span class="i1">Though all is spring without.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-5>
+<section id="stanza-2-32-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2590,7 +2590,7 @@
       <span class="i1">No song more loud than mine.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-6>
+<section id="stanza-2-32-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2601,7 +2601,7 @@
       <span class="i1">Can dissipate my gloom.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-7>
+<section id="stanza-2-32-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -2612,7 +2612,7 @@
       <span class="i1">Or sooth his heart-felt pain.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-8>
+<section id="stanza-2-32-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -2623,7 +2623,7 @@
       <span class="i1">That I may nourish too.</span>
  	</p>
  	</section>
-<section id="stanza-1-32-9>
+<section id="stanza-2-32-9>
  	<header>
  		<p>IX</p>
  	</header>
@@ -2634,7 +2634,7 @@
       <span class="i1">And blossom like the rose.</span>
  	</p>
  	</section>
-<section id="hymn-1-33." epub:type="z3998:hymn">
+<section id="hymn-2-33." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">33.</h3>
@@ -2643,7 +2643,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-33-1>
+<section id="stanza-2-33-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2658,7 +2658,7 @@
     <span>Promises a harvest-day.</span>
  	</p>
  	</section>
-<section id="stanza-1-33-2>
+<section id="stanza-2-33-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2673,7 +2673,7 @@
     <span>And each grace springs forth afresh.</span>
  	</p>
  	</section>
-<section id="stanza-1-33-3>
+<section id="stanza-2-33-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2688,7 +2688,7 @@
     <span>Still I could not yield the fruit.</span>
  	</p>
  	</section>
-<section id="stanza-1-33-4>
+<section id="stanza-2-33-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2703,7 +2703,7 @@
     <span>Life to what seem'd dead before.</span>
  	</p>
  	</section>
-<section id="stanza-1-33-5>
+<section id="stanza-2-33-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2718,7 +2718,7 @@
     <span>All is love and bloom and joy.</span>
  	</p>
  	</section>
-<section id="hymn-1-34." epub:type="z3998:hymn">
+<section id="hymn-2-34." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">34.</h3>
@@ -2727,7 +2727,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-34-1>
+<section id="stanza-2-34-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2742,7 +2742,7 @@
     <span>Ere a short-lived day be o'er.</span>
  	</p>
  	</section>
-<section id="stanza-1-34-2>
+<section id="stanza-2-34-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2757,7 +2757,7 @@
     <span>All the day and all the year.</span>
  	</p>
  	</section>
-<section id="stanza-1-34-3>
+<section id="stanza-2-34-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2772,7 +2772,7 @@
     <span>All his hopes and courage fail.</span>
  	</p>
  	</section>
-<section id="stanza-1-34-4>
+<section id="stanza-2-34-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2787,7 +2787,7 @@
     <span>Ere the day of life be past.</span>
  	</p>
  	</section>
-<section id="stanza-1-34-5>
+<section id="stanza-2-34-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2802,7 +2802,7 @@
     <span>Unexpected storms destroy!</span>
  	</p>
  	</section>
-<section id="stanza-1-34-6>
+<section id="stanza-2-34-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2817,7 +2817,7 @@
     <span>Sound to golden harps thy praise.</span>
  	</p>
  	</section>
-<section id="hymn-1-35." epub:type="z3998:hymn">
+<section id="hymn-2-35." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">35.</h3>
@@ -2826,7 +2826,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-35-1>
+<section id="stanza-2-35-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2837,7 +2837,7 @@
       <span class="i1">And fall and fade away.</span>
  	</p>
  	</section>
-<section id="stanza-1-35-2>
+<section id="stanza-2-35-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2848,7 +2848,7 @@
       <span class="i1">May see themselves but grass,</span>
  	</p>
  	</section>
-<section id="stanza-1-35-3>
+<section id="stanza-2-35-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2859,7 +2859,7 @@
       <span class="i1">Is mowing thousands down.</span>
  	</p>
  	</section>
-<section id="stanza-1-35-4>
+<section id="stanza-2-35-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2870,7 +2870,7 @@
       <span class="i1">Before the stroke arrives.</span>
  	</p>
  	</section>
-<section id="stanza-1-35-5>
+<section id="stanza-2-35-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2881,7 +2881,7 @@
       <span class="i1">To everlasting pain!</span>
  	</p>
  	</section>
-<section id="stanza-1-35-6>
+<section id="stanza-2-35-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -2892,7 +2892,7 @@
       <span class="i1">Our souls may spring to thee.</span>
  	</p>
  	</section>
-<section id="hymn-1-36." epub:type="z3998:hymn">
+<section id="hymn-2-36." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">36.</h3>
@@ -2901,7 +2901,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-36-1>
+<section id="stanza-2-36-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2916,7 +2916,7 @@
     <span>We have sinn'd, but thou art good.</span>
  	</p>
  	</section>
-<section id="stanza-1-36-2>
+<section id="stanza-2-36-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -2931,7 +2931,7 @@
     <span>Only crops of useless weeds.</span>
  	</p>
  	</section>
-<section id="stanza-1-36-3>
+<section id="stanza-2-36-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -2946,7 +2946,7 @@
     <span>Have opposed its growth in vain.</span>
  	</p>
  	</section>
-<section id="stanza-1-36-4>
+<section id="stanza-2-36-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -2961,7 +2961,7 @@
     <span>Ready for the reaper stands.</span>
  	</p>
  	</section>
-<section id="stanza-1-36-5>
+<section id="stanza-2-36-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -2976,7 +2976,7 @@
     <span>Finds it fully ripe at last.</span>
  	</p>
  	</section>
-<section id="hymn-1-37." epub:type="z3998:hymn">
+<section id="hymn-2-37." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">37.</h3>
@@ -2985,7 +2985,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-37-1>
+<section id="stanza-2-37-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -2996,7 +2996,7 @@
     <span>To his birth and cross and shame.</span>
  	</p>
  	</section>
-<section id="stanza-1-37-2>
+<section id="stanza-2-37-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3007,7 +3007,7 @@
     <span>Who should louder sing than I?</span>
  	</p>
  	</section>
-<section id="stanza-1-37-3>
+<section id="stanza-2-37-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3018,7 +3018,7 @@
     <span>And canst thou, my tongue, be still?</span>
  	</p>
  	</section>
-<section id="stanza-1-37-4>
+<section id="stanza-2-37-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3029,7 +3029,7 @@
     <span>Sure the very stones would speak.</span>
  	</p>
  	</section>
-<section id="stanza-1-37-5>
+<section id="stanza-2-37-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3040,7 +3040,7 @@
     <span>I will love thee without end.</span>
  	</p>
  	</section>
-<section id="hymn-1-38." epub:type="z3998:hymn">
+<section id="hymn-2-38." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">38.</h3>
@@ -3049,7 +3049,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-38-1>
+<section id="stanza-2-38-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3060,7 +3060,7 @@
     <span>The great supreme, the mighty God.</span>
  	</p>
  	</section>
-<section id="stanza-1-38-2>
+<section id="stanza-2-38-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3071,7 +3071,7 @@
     <span>He shines eternal ages hence.</span>
  	</p>
  	</section>
-<section id="stanza-1-38-3>
+<section id="stanza-2-38-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3082,7 +3082,7 @@
     <span>Fill'd all the morning-stars with joy.</span>
  	</p>
  	</section>
-<section id="stanza-1-38-4>
+<section id="stanza-2-38-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3093,7 +3093,7 @@
     <span>And owns Emmanuel for his name.</span>
  	</p>
  	</section>
-<section id="stanza-1-38-5>
+<section id="stanza-2-38-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3104,7 +3104,7 @@
     <span>To worship Him who died for me.</span>
  	</p>
  	</section>
-<section id="stanza-1-38-6>
+<section id="stanza-2-38-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3115,7 +3115,7 @@
     <span>Salvation's sure, and must be mine.</span>
  	</p>
  	</section>
-<section id="hymn-1-39." epub:type="z3998:hymn">
+<section id="hymn-2-39." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">39.</h3>
@@ -3124,7 +3124,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-39-1>
+<section id="stanza-2-39-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3135,7 +3135,7 @@
     <span>In songs that angels cannot sing.</span>
  	</p>
  	</section>
-<section id="stanza-1-39-2>
+<section id="stanza-2-39-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3146,7 +3146,7 @@
     <span>But that "He suffer'd all for us."</span>
  	</p>
  	</section>
-<section id="stanza-1-39-3>
+<section id="stanza-2-39-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3157,7 +3157,7 @@
     <span>To save and honour fallen man.</span>
  	</p>
  	</section>
-<section id="stanza-1-39-4>
+<section id="stanza-2-39-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3168,7 +3168,7 @@
     <span>As man he fills the throne of God.</span>
  	</p>
  	</section>
-<section id="stanza-1-39-5>
+<section id="stanza-2-39-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3179,7 +3179,7 @@
     <span>But we the nearest int'rest claim.</span>
  	</p>
  	</section>
-<section id="stanza-1-39-6>
+<section id="stanza-2-39-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3190,7 +3190,7 @@
     <span>So cold and unconcern'd should prove.</span>
  	</p>
  	</section>
-<section id="stanza-1-39-7>
+<section id="stanza-2-39-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -3201,7 +3201,7 @@
     <span>And praise him more than angels can.</span>
  	</p>
  	</section>
-<section id="hymn-1-40." epub:type="z3998:hymn">
+<section id="hymn-2-40." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">40.</h3>
@@ -3210,7 +3210,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-40-1>
+<section id="stanza-2-40-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3223,7 +3223,7 @@
     <span>Emblem of eternal rest.</span>
  	</p>
  	</section>
-<section id="stanza-1-40-2>
+<section id="stanza-2-40-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3236,7 +3236,7 @@
     <span>Only made returns of sin.</span>
  	</p>
  	</section>
-<section id="stanza-1-40-3>
+<section id="stanza-2-40-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3249,7 +3249,7 @@
     <span>May we rest this night with thee.</span>
  	</p>
  	</section>
-<section id="stanza-1-40-4>
+<section id="stanza-2-40-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3262,7 +3262,7 @@
     <span>Of our everlasting feast.</span>
  	</p>
  	</section>
-<section id="stanza-1-40-5>
+<section id="stanza-2-40-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3275,7 +3275,7 @@
     <span>Till we join the church above!</span>
  	</p>
  	</section>
-<section id="hymn-1-41." epub:type="z3998:hymn">
+<section id="hymn-2-41." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">41.</h3>
@@ -3284,7 +3284,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">1 Sam. vii, 12.</p>
   </header>
-<section id="stanza-1-41-1>
+<section id="stanza-2-41-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3299,7 +3299,7 @@
     <span>Then let our thanksgivings abound.</span>
  	</p>
  	</section>
-<section id="stanza-1-41-2>
+<section id="stanza-2-41-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3314,7 +3314,7 @@
     <span>Or where before now had we been?</span>
  	</p>
  	</section>
-<section id="stanza-1-41-3>
+<section id="stanza-2-41-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3329,7 +3329,7 @@
     <span>It still is continued to us.</span>
  	</p>
  	</section>
-<section id="stanza-1-41-4>
+<section id="stanza-2-41-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3344,7 +3344,7 @@
     <span>And plungest them deep in the sea!"</span>
  	</p>
  	</section>
-<section id="stanza-1-41-5>
+<section id="stanza-2-41-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3359,7 +3359,7 @@
     <span>Far more to thy praise than the last.</span>
  	</p>
  	</section>
-<section id="hymn-1-42." epub:type="z3998:hymn">
+<section id="hymn-2-42." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">42.</h3>
@@ -3368,7 +3368,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-42-1>
+<section id="stanza-2-42-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3379,7 +3379,7 @@
       <span class="i1">To sing the Saviour's praise.</span>
  	</p>
  	</section>
-<section id="stanza-1-42-2>
+<section id="stanza-2-42-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3390,7 +3390,7 @@
       <span class="i1">And proved an early tomb.</span>
  	</p>
  	</section>
-<section id="stanza-1-42-3>
+<section id="stanza-2-42-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3401,7 +3401,7 @@
       <span class="i1">To form the lisping word.</span>
  	</p>
  	</section>
-<section id="stanza-1-42-4>
+<section id="stanza-2-42-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3412,7 +3412,7 @@
       <span class="i1">To bring salvation nigh.</span>
  	</p>
  	</section>
-<section id="stanza-1-42-5>
+<section id="stanza-2-42-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3423,7 +3423,7 @@
       <span class="i1">And prone to cross his will.</span>
  	</p>
  	</section>
-<section id="stanza-1-42-6>
+<section id="stanza-2-42-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3434,7 +3434,7 @@
       <span class="i1">What mercies have we seen!</span>
  	</p>
  	</section>
-<section id="stanza-1-42-7>
+<section id="stanza-2-42-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -3445,7 +3445,7 @@
       <span class="i1">"The Lord has help'd thus far."</span>
  	</p>
  	</section>
-<section id="stanza-1-42-8>
+<section id="stanza-2-42-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -3456,7 +3456,7 @@
       <span class="i1">Says, "Leave it all to me."</span>
  	</p>
  	</section>
-<section id="stanza-1-42-9>
+<section id="stanza-2-42-9>
  	<header>
  		<p>IX</p>
  	</header>
@@ -3467,7 +3467,7 @@
       <span class="i1">And trust thee for the rest.</span>
  	</p>
  	</section>
-<section id="hymn-1-43." epub:type="z3998:hymn">
+<section id="hymn-2-43." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">43.</h3>
@@ -3476,7 +3476,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-43-1>
+<section id="stanza-2-43-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3487,7 +3487,7 @@
       <span class="i1">To warm each waiting heart.</span>
  	</p>
  	</section>
-<section id="stanza-1-43-2>
+<section id="stanza-2-43-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3498,7 +3498,7 @@
       <span class="i1">So give us hearts to pray.</span>
  	</p>
  	</section>
-<section id="stanza-1-43-3>
+<section id="stanza-2-43-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3509,7 +3509,7 @@
       <span class="i1">That we may render praise.</span>
  	</p>
  	</section>
-<section id="stanza-1-43-4>
+<section id="stanza-2-43-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3520,7 +3520,7 @@
       <span class="i1">The wounded spirit heal.</span>
  	</p>
  	</section>
-<section id="stanza-1-43-5>
+<section id="stanza-2-43-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3531,7 +3531,7 @@
       <span class="i1">To make our graces grow!</span>
  	</p>
  	</section>
-<section id="stanza-1-43-6>
+<section id="stanza-2-43-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3542,7 +3542,7 @@
       <span class="i1">Unbosom all our cares!</span>
  	</p>
  	</section>
-<section id="stanza-1-43-7>
+<section id="stanza-2-43-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -3553,7 +3553,7 @@
       <span class="i1">To come and fill the place!</span>
  	</p>
  	</section>
-<section id="hymn-1-44." epub:type="z3998:hymn">
+<section id="hymn-2-44." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">44.</h3>
@@ -3562,7 +3562,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-44-1>
+<section id="stanza-2-44-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3573,7 +3573,7 @@
     <span>And every place is hallow'd ground.</span>
  	</p>
  	</section>
-<section id="stanza-1-44-2>
+<section id="stanza-2-44-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3584,7 +3584,7 @@
     <span>And going, take thee to their home.</span>
  	</p>
  	</section>
-<section id="stanza-1-44-3>
+<section id="stanza-2-44-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3595,7 +3595,7 @@
     <span>The sweetness of thy saving name.</span>
  	</p>
  	</section>
-<section id="stanza-1-44-4>
+<section id="stanza-2-44-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3606,7 +3606,7 @@
     <span>And bring all heaven before our eyes.</span>
  	</p>
  	</section>
-<section id="stanza-1-44-5>
+<section id="stanza-2-44-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3617,7 +3617,7 @@
     <span>And bless us with a large increase.</span>
  	</p>
  	</section>
-<section id="stanza-1-44-6>
+<section id="stanza-2-44-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3628,7 +3628,7 @@
     <span>And make a thousand hearts thine own!</span>
  	</p>
  	</section>
-<section id="hymn-1-45." epub:type="z3998:hymn">
+<section id="hymn-2-45." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">45.</h3>
@@ -3637,7 +3637,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-45-1>
+<section id="stanza-2-45-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3648,7 +3648,7 @@
     <span>Which hides them from the world awhile!</span>
  	</p>
  	</section>
-<section id="stanza-1-45-2>
+<section id="stanza-2-45-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3659,7 +3659,7 @@
     <span>All things another aspect wear.</span>
  	</p>
  	</section>
-<section id="stanza-1-45-3>
+<section id="stanza-2-45-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3670,7 +3670,7 @@
     <span>Renews their strength, and heals their wounds!</span>
  	</p>
  	</section>
-<section id="stanza-1-45-4>
+<section id="stanza-2-45-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3681,7 +3681,7 @@
     <span>To God's own house for heav'nly bread!</span>
  	</p>
  	</section>
-<section id="stanza-1-45-5>
+<section id="stanza-2-45-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3692,7 +3692,7 @@
     <span>Their burdens and their griefs forget.</span>
  	</p>
  	</section>
-<section id="stanza-1-45-6>
+<section id="stanza-2-45-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3703,7 +3703,7 @@
     <span>Sweet earnest of the joys above.</span>
  	</p>
  	</section>
-<section id="stanza-1-45-7>
+<section id="stanza-2-45-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -3714,7 +3714,7 @@
     <span>And give us manna for the week.</span>
  	</p>
  	</section>
-<section id="hymn-1-46." epub:type="z3998:hymn">
+<section id="hymn-2-46." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">46.</h3>
@@ -3723,7 +3723,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-46-1>
+<section id="stanza-2-46-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3734,7 +3734,7 @@
       <span class="i1">His arm supports them well.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-2>
+<section id="stanza-2-46-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3745,7 +3745,7 @@
       <span class="i1">He stands engaged to hear.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-3>
+<section id="stanza-2-46-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3756,7 +3756,7 @@
       <span class="i1">His love is still the same.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-4>
+<section id="stanza-2-46-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3767,7 +3767,7 @@
       <span class="i1">And taste the gospel grace.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-5>
+<section id="stanza-2-46-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3778,7 +3778,7 @@
       <span class="i1">Or aught beneath the skies.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-6>
+<section id="stanza-2-46-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3789,7 +3789,7 @@
       <span class="i1">And gilds the gloom of night.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-7>
+<section id="stanza-2-46-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -3800,7 +3800,7 @@
       <span class="i1">And own us still for thine.</span>
  	</p>
  	</section>
-<section id="stanza-1-46-8>
+<section id="stanza-2-46-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -3811,7 +3811,7 @@
       <span class="i1">To worship thee above.</span>
  	</p>
  	</section>
-<section id="hymn-1-47." epub:type="z3998:hymn">
+<section id="hymn-2-47." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">47.</h3>
@@ -3820,7 +3820,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-47-1>
+<section id="stanza-2-47-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3831,7 +3831,7 @@
       <span class="i1">Adopts them for his own!</span>
  	</p>
  	</section>
-<section id="stanza-1-47-2>
+<section id="stanza-2-47-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3842,7 +3842,7 @@
       <span class="i1">They find his presence near.</span>
  	</p>
  	</section>
-<section id="stanza-1-47-3>
+<section id="stanza-2-47-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3853,7 +3853,7 @@
       <span class="i1">By his almighty hand.</span>
  	</p>
  	</section>
-<section id="stanza-1-47-4>
+<section id="stanza-2-47-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3864,7 +3864,7 @@
       <span class="i1">Each trouble comfort brings.</span>
  	</p>
  	</section>
-<section id="stanza-1-47-5>
+<section id="stanza-2-47-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3875,7 +3875,7 @@
       <span class="i1">It makes amends for all.</span>
  	</p>
  	</section>
-<section id="stanza-1-47-6>
+<section id="stanza-2-47-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3886,7 +3886,7 @@
       <span class="i1">For all the worldling's store.</span>
  	</p>
  	</section>
-<section id="stanza-1-47-7>
+<section id="stanza-2-47-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -3897,7 +3897,7 @@
       <span class="i1">The pride and pomp of kings.</span>
  	</p>
  	</section>
-<section id="stanza-1-47-8>
+<section id="stanza-2-47-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -3908,7 +3908,7 @@
       <span class="i1">And heaven begun below.</span>
  	</p>
  	</section>
-<section id="hymn-1-48." epub:type="z3998:hymn">
+<section id="hymn-2-48." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">48.</h3>
@@ -3917,7 +3917,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-48-1>
+<section id="stanza-2-48-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -3928,7 +3928,7 @@
     <span>The seeds of joy for future years.</span>
  	</p>
  	</section>
-<section id="stanza-1-48-2>
+<section id="stanza-2-48-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -3939,7 +3939,7 @@
     <span>Which heard our cries and eased our pain.</span>
  	</p>
  	</section>
-<section id="stanza-1-48-3>
+<section id="stanza-2-48-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -3950,7 +3950,7 @@
     <span>Did not our sighing reach his ear?</span>
  	</p>
  	</section>
-<section id="stanza-1-48-4>
+<section id="stanza-2-48-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -3961,7 +3961,7 @@
     <span>"In other things thy will be done."</span>
  	</p>
  	</section>
-<section id="stanza-1-48-5>
+<section id="stanza-2-48-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -3972,7 +3972,7 @@
     <span>In this we can and will rejoice.</span>
  	</p>
  	</section>
-<section id="stanza-1-48-6>
+<section id="stanza-2-48-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -3983,7 +3983,7 @@
     <span>And yields us med'cine, food, and joy.</span>
  	</p>
  	</section>
-<section id="hymn-1-49." epub:type="z3998:hymn">
+<section id="hymn-2-49." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">49.</h3>
@@ -3992,7 +3992,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-49-1>
+<section id="stanza-2-49-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4003,7 +4003,7 @@
       <span class="i1">And thought it pleasant food.</span>
  	</p>
  	</section>
-<section id="stanza-1-49-2>
+<section id="stanza-2-49-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4014,7 +4014,7 @@
       <span class="i1">Although from heav'n it came.</span>
  	</p>
  	</section>
-<section id="stanza-1-49-3>
+<section id="stanza-2-49-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4025,7 +4025,7 @@
       <span class="i1">When easy to be had.</span>
  	</p>
  	</section>
-<section id="stanza-1-49-4>
+<section id="stanza-2-49-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4036,7 +4036,7 @@
       <span class="i1">Would make but poor amends.</span>
  	</p>
  	</section>
-<section id="stanza-1-49-5>
+<section id="stanza-2-49-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4047,7 +4047,7 @@
       <span class="i1">The precious truths we love!</span>
  	</p>
  	</section>
-<section id="stanza-1-49-6>
+<section id="stanza-2-49-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4058,7 +4058,7 @@
       <span class="i1">Without the light of truth?</span>
  	</p>
  	</section>
-<section id="stanza-1-49-7>
+<section id="stanza-2-49-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -4069,7 +4069,7 @@
       <span class="i1">When these shall be removed.</span>
  	</p>
  	</section>
-<section id="stanza-1-49-8>
+<section id="stanza-2-49-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -4080,7 +4080,7 @@
       <span class="i1">No more by pray'r detain'd.</span>
  	</p>
  	</section>
-<section id="stanza-1-49-9>
+<section id="stanza-2-49-9>
  	<header>
  		<p>IX</p>
  	</header>
@@ -4091,7 +4091,7 @@
       <span class="i1">Would be a stroke indeed!</span>
  	</p>
  	</section>
-<section id="hymn-1-50." epub:type="z3998:hymn">
+<section id="hymn-2-50." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">50.</h3>
@@ -4100,7 +4100,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-50-1>
+<section id="stanza-2-50-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4111,7 +4111,7 @@
       <span class="i1">His eye intent on thee!</span>
  	</p>
  	</section>
-<section id="stanza-1-50-2>
+<section id="stanza-2-50-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4122,7 +4122,7 @@
       <span class="i1">And faithfulness and skill.</span>
  	</p>
  	</section>
-<section id="stanza-1-50-3>
+<section id="stanza-2-50-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4133,7 +4133,7 @@
       <span class="i1">The sacred truths they preach.</span>
  	</p>
  	</section>
-<section id="stanza-1-50-4>
+<section id="stanza-2-50-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4144,7 +4144,7 @@
       <span class="i1">Debase the shepherd's views.</span>
  	</p>
  	</section>
-<section id="stanza-1-50-5>
+<section id="stanza-2-50-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4155,7 +4155,7 @@
       <span class="i1">An idle shepherd proves.</span>
  	</p>
  	</section>
-<section id="stanza-1-50-6>
+<section id="stanza-2-50-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4166,7 +4166,7 @@
       <span class="i1">His gifts shall all grow dry.</span>
  	</p>
  	</section>
-<section id="stanza-1-50-7>
+<section id="stanza-2-50-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -4177,7 +4177,7 @@
       <span class="i1">To labour while 'tis day.</span>
  	</p>
  	</section>
-<section id="hymn-1-51." epub:type="z3998:hymn">
+<section id="hymn-2-51." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">51.</h3>
@@ -4186,7 +4186,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-51-1>
+<section id="stanza-2-51-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4201,7 +4201,7 @@
     <span>Every plant should droop and die.</span>
  	</p>
  	</section>
-<section id="stanza-1-51-2>
+<section id="stanza-2-51-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4216,7 +4216,7 @@
     <span>Help can only come from thee.</span>
  	</p>
  	</section>
-<section id="stanza-1-51-3>
+<section id="stanza-2-51-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4231,7 +4231,7 @@
     <span>Scarce a single leaf they show.</span>
  	</p>
  	</section>
-<section id="stanza-1-51-4>
+<section id="stanza-2-51-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4246,7 +4246,7 @@
     <span>Let not all our hopes be vain!</span>
  	</p>
  	</section>
-<section id="stanza-1-51-5>
+<section id="stanza-2-51-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4261,7 +4261,7 @@
     <span>To revive thy work afresh.</span>
  	</p>
  	</section>
-<section id="hymn-1-52." epub:type="z3998:hymn">
+<section id="hymn-2-52." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">52.</h3>
@@ -4270,7 +4270,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-52-1>
+<section id="stanza-2-52-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4281,7 +4281,7 @@
     <span>"Come, sing us one of Zion's songs."</span>
  	</p>
  	</section>
-<section id="stanza-1-52-2>
+<section id="stanza-2-52-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4292,7 +4292,7 @@
     <span>Is this a day for me to sing?</span>
  	</p>
  	</section>
-<section id="stanza-1-52-3>
+<section id="stanza-2-52-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4303,7 +4303,7 @@
     <span>And tremble for the ark of God.</span>
  	</p>
  	</section>
-<section id="stanza-1-52-4>
+<section id="stanza-2-52-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4314,7 +4314,7 @@
     <span>"Dismiss thy fears,—the ark is mine.</span>
  	</p>
  	</section>
-<section id="stanza-1-52-5>
+<section id="stanza-2-52-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4325,7 +4325,7 @@
     <span>And wait for a reviving hour.</span>
  	</p>
  	</section>
-<section id="stanza-1-52-6>
+<section id="stanza-2-52-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4336,7 +4336,7 @@
     <span>But spring shall all its wastes repair."</span>
  	</p>
  	</section>
-<section id="stanza-1-52-7>
+<section id="stanza-2-52-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -4347,7 +4347,7 @@
     <span>For God will help and healing bring.</span>
  	</p>
  	</section>
-<section id="hymn-1-53." epub:type="z3998:hymn">
+<section id="hymn-2-53." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">53.</h3>
@@ -4356,7 +4356,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-53-1>
+<section id="stanza-2-53-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4367,7 +4367,7 @@
       <span class="i1">Were press'd to fill the cup.</span>
  	</p>
  	</section>
-<section id="stanza-1-53-2>
+<section id="stanza-2-53-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4378,7 +4378,7 @@
       <span class="i1">For Jesus is the bread.</span>
  	</p>
  	</section>
-<section id="stanza-1-53-3>
+<section id="stanza-2-53-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4389,7 +4389,7 @@
       <span class="i1">Have no acceptance here.</span>
  	</p>
  	</section>
-<section id="stanza-1-53-4>
+<section id="stanza-2-53-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4400,7 +4400,7 @@
       <span class="i1">Then I may venture too.</span>
  	</p>
  	</section>
-<section id="stanza-1-53-5>
+<section id="stanza-2-53-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4411,7 +4411,7 @@
       <span class="i1">And I shall see his face.</span>
  	</p>
  	</section>
-<section id="hymn-1-54." epub:type="z3998:hymn">
+<section id="hymn-2-54." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">54.</h3>
@@ -4420,7 +4420,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-54-1>
+<section id="stanza-2-54-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4431,7 +4431,7 @@
     <span>For I am all transform'd to love.</span>
  	</p>
  	</section>
-<section id="stanza-1-54-2>
+<section id="stanza-2-54-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4442,7 +4442,7 @@
     <span>But see! he bows his head and dies!</span>
  	</p>
  	</section>
-<section id="stanza-1-54-3>
+<section id="stanza-2-54-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4453,7 +4453,7 @@
     <span>The well of endless life is here.</span>
  	</p>
  	</section>
-<section id="stanza-1-54-4>
+<section id="stanza-2-54-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4464,7 +4464,7 @@
     <span>Can satisfy the thirst of love.</span>
  	</p>
  	</section>
-<section id="stanza-1-54-5>
+<section id="stanza-2-54-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4475,7 +4475,7 @@
     <span>The grace and glory of thy name.</span>
  	</p>
  	</section>
-<section id="stanza-1-54-6>
+<section id="stanza-2-54-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4486,7 +4486,7 @@
     <span>And Satan trembles at the sound.</span>
  	</p>
  	</section>
-<section id="hymn-1-55." epub:type="z3998:hymn">
+<section id="hymn-2-55." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">55.</h3>
@@ -4495,7 +4495,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-55-1>
+<section id="stanza-2-55-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4506,7 +4506,7 @@
       <span class="i1">He march'd before the rest!</span>
  	</p>
  	</section>
-<section id="stanza-1-55-2>
+<section id="stanza-2-55-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4517,7 +4517,7 @@
       <span class="i1">He pants to reach the cross.</span>
  	</p>
  	</section>
-<section id="stanza-1-55-3>
+<section id="stanza-2-55-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4528,7 +4528,7 @@
       <span class="i1">'Twas love that urged him on.</span>
  	</p>
  	</section>
-<section id="stanza-1-55-4>
+<section id="stanza-2-55-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4539,7 +4539,7 @@
       <span class="i1">And to the rising God!</span>
  	</p>
  	</section>
-<section id="stanza-1-55-5>
+<section id="stanza-2-55-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4550,7 +4550,7 @@
       <span class="i1">And hasten to the skies.</span>
  	</p>
  	</section>
-<section id="hymn-1-56." epub:type="z3998:hymn">
+<section id="hymn-2-56." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">56.</h3>
@@ -4559,7 +4559,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-56-1>
+<section id="stanza-2-56-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4570,7 +4570,7 @@
     <span>Weep and bleed and die for me!</span>
  	</p>
  	</section>
-<section id="stanza-1-56-2>
+<section id="stanza-2-56-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4581,7 +4581,7 @@
     <span>Thou hast slain the Lamb of God.</span>
  	</p>
  	</section>
-<section id="stanza-1-56-3>
+<section id="stanza-2-56-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4592,7 +4592,7 @@
     <span>I thy ransom freely pay."</span>
  	</p>
  	</section>
-<section id="stanza-1-56-4>
+<section id="stanza-2-56-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4603,7 +4603,7 @@
     <span>Waken'd by the force of love.</span>
  	</p>
  	</section>
-<section id="stanza-1-56-5>
+<section id="stanza-2-56-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4614,7 +4614,7 @@
     <span>From the law and sin and thee!</span>
  	</p>
  	</section>
-<section id="stanza-1-56-6>
+<section id="stanza-2-56-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4625,7 +4625,7 @@
     <span>Now, no more my own, but thine.</span>
  	</p>
  	</section>
-<section id="hymn-1-57." epub:type="z3998:hymn">
+<section id="hymn-2-57." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">57.</h3>
@@ -4634,7 +4634,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-57-1>
+<section id="stanza-2-57-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4645,7 +4645,7 @@
       <span class="i1">And stopp'd my wild career.</span>
  	</p>
  	</section>
-<section id="stanza-1-57-2>
+<section id="stanza-2-57-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4656,7 +4656,7 @@
       <span class="i1">As near his cross I stood.</span>
  	</p>
  	</section>
-<section id="stanza-1-57-3>
+<section id="stanza-2-57-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4667,7 +4667,7 @@
       <span class="i1">Though not a word He spoke.</span>
  	</p>
  	</section>
-<section id="stanza-1-57-4>
+<section id="stanza-2-57-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4678,7 +4678,7 @@
       <span class="i1">And help'd to nail Him there.</span>
  	</p>
  	</section>
-<section id="stanza-1-57-5>
+<section id="stanza-2-57-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4689,7 +4689,7 @@
       <span class="i1">For I the Lord have slain.</span>
  	</p>
  	</section>
-<section id="stanza-1-57-6>
+<section id="stanza-2-57-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4700,7 +4700,7 @@
       <span class="i1">I die, that may may st live."</span>
  	</p>
  	</section>
-<section id="stanza-1-57-7>
+<section id="stanza-2-57-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -4711,7 +4711,7 @@
       <span class="i1">It seals my pardon too.</span>
  	</p>
  	</section>
-<section id="stanza-1-57-8>
+<section id="stanza-2-57-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -4722,7 +4722,7 @@
       <span class="i1">Yet live by Him I kill'd.</span>
  	</p>
  	</section>
-<section id="hymn-1-58." epub:type="z3998:hymn">
+<section id="hymn-2-58." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">58.</h3>
@@ -4731,7 +4731,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-58-1>
+<section id="stanza-2-58-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4742,7 +4742,7 @@
       <span class="i1">A sure resource in God.</span>
  	</p>
  	</section>
-<section id="stanza-1-58-2>
+<section id="stanza-2-58-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4753,7 +4753,7 @@
       <span class="i1">And manna was their meat.</span>
  	</p>
  	</section>
-<section id="stanza-1-58-3>
+<section id="stanza-2-58-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4764,7 +4764,7 @@
       <span class="i1">But Isr'el's God is ours.</span>
  	</p>
  	</section>
-<section id="stanza-1-58-4>
+<section id="stanza-2-58-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4775,7 +4775,7 @@
       <span class="i1">As once he was to them.</span>
  	</p>
  	</section>
-<section id="stanza-1-58-5>
+<section id="stanza-2-58-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4786,7 +4786,7 @@
       <span class="i1">From harm preserves us free.</span>
  	</p>
  	</section>
-<section id="stanza-1-58-6>
+<section id="stanza-2-58-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4797,7 +4797,7 @@
       <span class="i1">'Tis water, wine, and blood.</span>
  	</p>
  	</section>
-<section id="stanza-1-58-7>
+<section id="stanza-2-58-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -4808,7 +4808,7 @@
       <span class="i1">If Christ and heav'n are mine.</span>
  	</p>
  	</section>
-<section id="hymn-1-59." epub:type="z3998:hymn">
+<section id="hymn-2-59." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">59.</h3>
@@ -4817,7 +4817,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-59-1>
+<section id="stanza-2-59-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4828,7 +4828,7 @@
     <span>In songs of praise with those above.</span>
  	</p>
  	</section>
-<section id="stanza-1-59-2>
+<section id="stanza-2-59-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4839,7 +4839,7 @@
     <span>For us he died, for us he reigns.</span>
  	</p>
  	</section>
-<section id="stanza-1-59-3>
+<section id="stanza-2-59-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4850,7 +4850,7 @@
     <span>As safe and as beloved are we.</span>
  	</p>
  	</section>
-<section id="stanza-1-59-4>
+<section id="stanza-2-59-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4861,7 +4861,7 @@
     <span>And we ere long shall conquer too.</span>
  	</p>
  	</section>
-<section id="stanza-1-59-5>
+<section id="stanza-2-59-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4872,7 +4872,7 @@
     <span>The poor attempts of worms on earth.</span>
  	</p>
  	</section>
-<section id="hymn-1-60." epub:type="z3998:hymn">
+<section id="hymn-2-60." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">60.</h3>
@@ -4881,7 +4881,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-60-1>
+<section id="stanza-2-60-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4892,7 +4892,7 @@
     <span>But wishes to be often there?</span>
  	</p>
  	</section>
-<section id="stanza-1-60-2>
+<section id="stanza-2-60-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4903,7 +4903,7 @@
     <span>Brings every blessing from above.</span>
  	</p>
  	</section>
-<section id="stanza-1-60-3>
+<section id="stanza-2-60-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4914,7 +4914,7 @@
     <span>The weakest saint upon his knees.</span>
  	</p>
  	</section>
-<section id="stanza-1-60-4>
+<section id="stanza-2-60-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -4925,7 +4925,7 @@
     <span>That moment Amalek prevail'd.</span>
  	</p>
  	</section>
-<section id="stanza-1-60-5>
+<section id="stanza-2-60-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -4936,7 +4936,7 @@
     <span>With the sad tale of all your care.</span>
  	</p>
  	</section>
-<section id="stanza-1-60-6>
+<section id="stanza-2-60-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -4947,7 +4947,7 @@
     <span>"Hear what the Lord has done for me.</span>
  	</p>
  	</section>
-<section id="hymn-1-61." epub:type="z3998:hymn">
+<section id="hymn-2-61." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">61.</h3>
@@ -4956,7 +4956,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-61-1>
+<section id="stanza-2-61-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -4967,7 +4967,7 @@
     <span>Press them close on every hand?</span>
  	</p>
  	</section>
-<section id="stanza-1-61-2>
+<section id="stanza-2-61-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -4978,7 +4978,7 @@
     <span>Helps them when they seek his face.</span>
  	</p>
  	</section>
-<section id="stanza-1-61-3>
+<section id="stanza-2-61-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -4989,7 +4989,7 @@
     <span>Will not let them cry in vain.</span>
  	</p>
  	</section>
-<section id="stanza-1-61-4>
+<section id="stanza-2-61-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5000,7 +5000,7 @@
     <span>Iron bars and brazen gates.</span>
  	</p>
  	</section>
-<section id="stanza-1-61-5>
+<section id="stanza-2-61-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5011,7 +5011,7 @@
     <span>Had his life by pray'r renew'd.</span>
  	</p>
  	</section>
-<section id="stanza-1-61-6>
+<section id="stanza-2-61-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5022,7 +5022,7 @@
     <span>After three long years of drought.</span>
  	</p>
  	</section>
-<section id="stanza-1-61-7>
+<section id="stanza-2-61-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5033,7 +5033,7 @@
     <span>Suddenly deliv'rance came.</span>
  	</p>
  	</section>
-<section id="stanza-1-61-8>
+<section id="stanza-2-61-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -5044,7 +5044,7 @@
     <span>Call upon him while we live.</span>
  	</p>
  	</section>
-<section id="hymn-1-62." epub:type="z3998:hymn">
+<section id="hymn-2-62." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">62.</h3>
@@ -5053,7 +5053,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-62-1>
+<section id="stanza-2-62-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5064,7 +5064,7 @@
       <span class="i1">A sanctifying light.</span>
  	</p>
  	</section>
-<section id="stanza-1-62-2>
+<section id="stanza-2-62-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5075,7 +5075,7 @@
       <span class="i1">It gives, but borrows none.</span>
  	</p>
  	</section>
-<section id="stanza-1-62-3>
+<section id="stanza-2-62-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5086,7 +5086,7 @@
       <span class="i1">They rise, but never set.</span>
  	</p>
  	</section>
-<section id="stanza-1-62-4>
+<section id="stanza-2-62-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5097,7 +5097,7 @@
       <span class="i1">With beams of heav'nly day.</span>
  	</p>
  	</section>
-<section id="stanza-1-62-5>
+<section id="stanza-2-62-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5108,7 +5108,7 @@
       <span class="i1">In brighter worlds above.</span>
  	</p>
  	</section>
-<section id="hymn-1-63." epub:type="z3998:hymn">
+<section id="hymn-2-63." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">63.</h3>
@@ -5117,7 +5117,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-63-1>
+<section id="stanza-2-63-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5130,7 +5130,7 @@
       <span class="i1">Having this I need no more.</span>
  	</p>
  	</section>
-<section id="stanza-1-63-2>
+<section id="stanza-2-63-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5143,7 +5143,7 @@
       <span class="i1">He is meat and drink indeed!</span>
  	</p>
  	</section>
-<section id="stanza-1-63-3>
+<section id="stanza-2-63-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5156,7 +5156,7 @@
       <span class="i1">Each affords a remedy.</span>
  	</p>
  	</section>
-<section id="stanza-1-63-4>
+<section id="stanza-2-63-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5169,7 +5169,7 @@
       <span class="i1">From his malice I'm secure.</span>
  	</p>
  	</section>
-<section id="stanza-1-63-5>
+<section id="stanza-2-63-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5182,7 +5182,7 @@
       <span class="i1">Keen the edge and strong the blade.</span>
  	</p>
  	</section>
-<section id="stanza-1-63-6>
+<section id="stanza-2-63-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5195,7 +5195,7 @@
       <span class="i1">Food and med'cine, shield and sword.</span>
  	</p>
  	</section>
-<section id="hymn-1-64." epub:type="z3998:hymn">
+<section id="hymn-2-64." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">64.</h3>
@@ -5204,7 +5204,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-64-1>
+<section id="stanza-2-64-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5215,7 +5215,7 @@
       <span class="i1">And shelter'd from its rage!</span>
  	</p>
  	</section>
-<section id="stanza-1-64-2>
+<section id="stanza-2-64-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5226,7 +5226,7 @@
       <span class="i1">Upon our guilty land!</span>
  	</p>
  	</section>
-<section id="stanza-1-64-3>
+<section id="stanza-2-64-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5237,7 +5237,7 @@
       <span class="i1">And bid the angel stop?</span>
  	</p>
  	</section>
-<section id="stanza-1-64-4>
+<section id="stanza-2-64-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5248,7 +5248,7 @@
       <span class="i1">With brethren now engage.</span>
  	</p>
  	</section>
-<section id="stanza-1-64-5>
+<section id="stanza-2-64-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5259,7 +5259,7 @@
       <span class="i1">The battles of the Lord.</span>
  	</p>
  	</section>
-<section id="stanza-1-64-6>
+<section id="stanza-2-64-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5270,7 +5270,7 @@
       <span class="i1">When God shall send it near.</span>
  	</p>
  	</section>
-<section id="stanza-1-64-7>
+<section id="stanza-2-64-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5281,7 +5281,7 @@
       <span class="i1">And shakes the welkin[5] round.</span>
  	</p>
  	</section>
-<section id="stanza-1-64-8>
+<section id="stanza-2-64-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -5292,7 +5292,7 @@
       <span class="i1">The church's, and our own.</span>
  	</p>
  	</section>
-<section id="stanza-1-64-9>
+<section id="stanza-2-64-9>
  	<header>
  		<p>IX</p>
  	</header>
@@ -5303,7 +5303,7 @@
       <span class="i1">When vengeance strikes his foes.</span>
  	</p>
  	</section>
-<section id="hymn-1-65." epub:type="z3998:hymn">
+<section id="hymn-2-65." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">65.</h3>
@@ -5312,7 +5312,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-65-1>
+<section id="stanza-2-65-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5323,7 +5323,7 @@
     <span>The God whom we profess to fear.</span>
  	</p>
  	</section>
-<section id="stanza-1-65-2>
+<section id="stanza-2-65-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5334,7 +5334,7 @@
     <span>Which thousands cannot, will not see.</span>
  	</p>
  	</section>
-<section id="stanza-1-65-3>
+<section id="stanza-2-65-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5345,7 +5345,7 @@
     <span>Have envied and admired our lot!</span>
  	</p>
  	</section>
-<section id="stanza-1-65-4>
+<section id="stanza-2-65-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5356,7 +5356,7 @@
     <span>That God has made our cause his own.</span>
  	</p>
  	</section>
-<section id="stanza-1-65-5>
+<section id="stanza-2-65-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5367,7 +5367,7 @@
     <span>Rebels against his goodness prove.</span>
  	</p>
  	</section>
-<section id="stanza-1-65-6>
+<section id="stanza-2-65-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5378,7 +5378,7 @@
     <span>Are signs that mark the present times.</span>
  	</p>
  	</section>
-<section id="stanza-1-65-7>
+<section id="stanza-2-65-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5389,7 +5389,7 @@
     <span>And know what Isr'el ought to do?</span>
  	</p>
  	</section>
-<section id="stanza-1-65-8>
+<section id="stanza-2-65-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -5400,7 +5400,7 @@
     <span>And let thy wrath be turn'd away!</span>
  	</p>
  	</section>
-<section id="hymn-1-66." epub:type="z3998:hymn">
+<section id="hymn-2-66." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">66.</h3>
@@ -5409,7 +5409,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Exod.xvii, 9.Feb. 27, 1778.</p>
   </header>
-<section id="stanza-1-66-1>
+<section id="stanza-2-66-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5420,7 +5420,7 @@
       <span class="i1">Engaged in humble pray'r.</span>
  	</p>
  	</section>
-<section id="stanza-1-66-2>
+<section id="stanza-2-66-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5431,7 +5431,7 @@
       <span class="i1">To put the foes to flight.</span>
  	</p>
  	</section>
-<section id="stanza-1-66-3>
+<section id="stanza-2-66-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5442,7 +5442,7 @@
       <span class="i1">And Am'lek bolder grew.</span>
  	</p>
  	</section>
-<section id="stanza-1-66-4>
+<section id="stanza-2-66-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5453,7 +5453,7 @@
       <span class="i1">But God, was their defence.</span>
  	</p>
  	</section>
-<section id="stanza-1-66-5>
+<section id="stanza-2-66-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5464,7 +5464,7 @@
       <span class="i1">To save the state by pray'r.</span>
  	</p>
  	</section>
-<section id="stanza-1-66-6>
+<section id="stanza-2-66-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5475,7 +5475,7 @@
       <span class="i1">To weep and mourn and pray.</span>
  	</p>
  	</section>
-<section id="stanza-1-66-7>
+<section id="stanza-2-66-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5486,7 +5486,7 @@
       <span class="i1">And bless us all with peace.</span>
  	</p>
  	</section>
-<section id="hymn-1-67." epub:type="z3998:hymn">
+<section id="hymn-2-67." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">67.</h3>
@@ -5495,7 +5495,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-67-1>
+<section id="stanza-2-67-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5510,7 +5510,7 @@
     <span>They have no just cause for fear.</span>
  	</p>
  	</section>
-<section id="stanza-1-67-2>
+<section id="stanza-2-67-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5525,7 +5525,7 @@
     <span>Till the storm be overblown.</span>
  	</p>
  	</section>
-<section id="stanza-1-67-3>
+<section id="stanza-2-67-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5540,7 +5540,7 @@
     <span>Shall be safe within the ark.</span>
  	</p>
  	</section>
-<section id="stanza-1-67-4>
+<section id="stanza-2-67-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5555,7 +5555,7 @@
     <span>And this call should prove your last.</span>
  	</p>
  	</section>
-<section id="hymn-1-68." epub:type="z3998:hymn">
+<section id="hymn-2-68." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">68.</h3>
@@ -5564,7 +5564,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-68-1>
+<section id="stanza-2-68-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5575,7 +5575,7 @@
       <span class="i1">Before its Maker's look.</span>
  	</p>
  	</section>
-<section id="stanza-1-68-2>
+<section id="stanza-2-68-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5586,7 +5586,7 @@
       <span class="i1">If earth itself pursue?</span>
  	</p>
  	</section>
-<section id="stanza-1-68-3>
+<section id="stanza-2-68-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5597,7 +5597,7 @@
       <span class="i1">By sinners, as before.</span>
  	</p>
  	</section>
-<section id="stanza-1-68-4>
+<section id="stanza-2-68-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5608,7 +5608,7 @@
       <span class="i1">And open wide to hell?</span>
  	</p>
  	</section>
-<section id="stanza-1-68-5>
+<section id="stanza-2-68-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5619,7 +5619,7 @@
       <span class="i1">To hide thee from his frown.</span>
  	</p>
  	</section>
-<section id="stanza-1-68-6>
+<section id="stanza-2-68-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5630,7 +5630,7 @@
       <span class="i1">No change can overthrow.</span>
  	</p>
  	</section>
-<section id="stanza-1-68-7>
+<section id="stanza-2-68-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5641,7 +5641,7 @@
       <span class="i1">Your hearts may rest in peace.</span>
  	</p>
  	</section>
-<section id="stanza-1-68-8>
+<section id="stanza-2-68-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -5652,7 +5652,7 @@
       <span class="i1">Can move but at his will.</span>
  	</p>
  	</section>
-<section id="hymn-1-69." epub:type="z3998:hymn">
+<section id="hymn-2-69." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">69.</h3>
@@ -5661,7 +5661,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-69-1>
+<section id="stanza-2-69-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5672,7 +5672,7 @@
     <span>And fits us for returning light.</span>
  	</p>
  	</section>
-<section id="stanza-1-69-2>
+<section id="stanza-2-69-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5683,7 +5683,7 @@
     <span>We neither can foresee nor shun.</span>
  	</p>
  	</section>
-<section id="stanza-1-69-3>
+<section id="stanza-2-69-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5694,7 +5694,7 @@
     <span>Secure amidst a thousand harms.</span>
  	</p>
  	</section>
-<section id="stanza-1-69-4>
+<section id="stanza-2-69-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5705,7 +5705,7 @@
     <span>And bid the fire rebuke our sin.</span>
  	</p>
  	</section>
-<section id="stanza-1-69-5>
+<section id="stanza-2-69-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5716,7 +5716,7 @@
     <span>Made midnight wear the face of day.</span>
  	</p>
  	</section>
-<section id="stanza-1-69-6>
+<section id="stanza-2-69-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5727,7 +5727,7 @@
     <span>The voice of blasphemy and pray'r!</span>
  	</p>
  	</section>
-<section id="stanza-1-69-7>
+<section id="stanza-2-69-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5738,7 +5738,7 @@
     <span>To change the wind and stop the flame.</span>
  	</p>
  	</section>
-<section id="stanza-1-69-8>
+<section id="stanza-2-69-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -5749,7 +5749,7 @@
     <span>Ruin like Sodom's would ensue.</span>
  	</p>
  	</section>
-<section id="hymn-1-70." epub:type="z3998:hymn">
+<section id="hymn-2-70." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">70.</h3>
@@ -5758,7 +5758,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-70-1>
+<section id="stanza-2-70-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5769,7 +5769,7 @@
     <span>The joys which only he can give!</span>
  	</p>
  	</section>
-<section id="stanza-1-70-2>
+<section id="stanza-2-70-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5780,7 +5780,7 @@
     <span>Our hope, our way, our end, the same.</span>
  	</p>
  	</section>
-<section id="stanza-1-70-3>
+<section id="stanza-2-70-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5791,7 +5791,7 @@
     <span>And cause our hearts to burn with love!</span>
  	</p>
  	</section>
-<section id="stanza-1-70-4>
+<section id="stanza-2-70-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5802,7 +5802,7 @@
     <span>Who lived and died and reigns for us.</span>
  	</p>
  	</section>
-<section id="stanza-1-70-5>
+<section id="stanza-2-70-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5813,7 +5813,7 @@
     <span>And what He s doing for us now.</span>
  	</p>
  	</section>
-<section id="stanza-1-70-6>
+<section id="stanza-2-70-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5824,7 +5824,7 @@
     <span>When we shall meet to part no more.</span>
  	</p>
  	</section>
-<section id="hymn-1-71." epub:type="z3998:hymn">
+<section id="hymn-2-71." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">71.</h3>
@@ -5833,7 +5833,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-71-1>
+<section id="stanza-2-71-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5844,7 +5844,7 @@
     <span>To the souls that love his name.</span>
  	</p>
  	</section>
-<section id="stanza-1-71-2>
+<section id="stanza-2-71-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5855,7 +5855,7 @@
     <span>Those who go, and those who stay.</span>
  	</p>
  	</section>
-<section id="stanza-1-71-3>
+<section id="stanza-2-71-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5866,7 +5866,7 @@
     <span>And in sweet communion join.</span>
  	</p>
  	</section>
-<section id="stanza-1-71-4>
+<section id="stanza-2-71-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5877,7 +5877,7 @@
     <span>Of our ever-present Friend.</span>
  	</p>
  	</section>
-<section id="stanza-1-71-5>
+<section id="stanza-2-71-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5888,7 +5888,7 @@
     <span>All our souls in safety keep.</span>
  	</p>
  	</section>
-<section id="stanza-1-71-6>
+<section id="stanza-2-71-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5899,7 +5899,7 @@
     <span>Here to meet in peace again.</span>
  	</p>
  	</section>
-<section id="stanza-1-71-7>
+<section id="stanza-2-71-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5910,7 +5910,7 @@
     <span>Who our poor petitions heard.</span>
  	</p>
  	</section>
-<section id="hymn-1-72." epub:type="z3998:hymn">
+<section id="hymn-2-72." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">72.</h3>
@@ -5919,7 +5919,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-72-1>
+<section id="stanza-2-72-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -5930,7 +5930,7 @@
       <span class="i1">When yielding up their breath.</span>
  	</p>
  	</section>
-<section id="stanza-1-72-2>
+<section id="stanza-2-72-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -5941,7 +5941,7 @@
       <span class="i1">Her mansion near the throne.</span>
  	</p>
  	</section>
-<section id="stanza-1-72-3>
+<section id="stanza-2-72-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -5952,7 +5952,7 @@
       <span class="i1">Which hides that world of light</span>
  	</p>
  	</section>
-<section id="stanza-1-72-4>
+<section id="stanza-2-72-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -5963,7 +5963,7 @@
       <span class="i1">And with their Saviour rest.</span>
  	</p>
  	</section>
-<section id="stanza-1-72-5>
+<section id="stanza-2-72-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -5974,7 +5974,7 @@
       <span class="i1">That we may praise him too.</span>
  	</p>
  	</section>
-<section id="stanza-1-72-6>
+<section id="stanza-2-72-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -5985,7 +5985,7 @@
       <span class="i1">They offer'd for us here.</span>
  	</p>
  	</section>
-<section id="stanza-1-72-7>
+<section id="stanza-2-72-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -5996,7 +5996,7 @@
       <span class="i1">And wipe our tears away.</span>
  	</p>
  	</section>
-<section id="stanza-1-72-8>
+<section id="stanza-2-72-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -6007,7 +6007,7 @@
       <span class="i1">To us who stay be sent.</span>
  	</p>
  	</section>
-<section id="hymn-1-73." epub:type="z3998:hymn">
+<section id="hymn-2-73." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">73.</h3>
@@ -6016,7 +6016,7 @@
   <p epub:type="z3998:contributors">By Cowper</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-73-1>
+<section id="stanza-2-73-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6027,7 +6027,7 @@
       <span class="i1">"Ah, what must Isr'el do?"</span>
  	</p>
  	</section>
-<section id="stanza-1-73-2>
+<section id="stanza-2-73-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6038,7 +6038,7 @@
       <span class="i1">Will soon be made his own.</span>
  	</p>
  	</section>
-<section id="stanza-1-73-3>
+<section id="stanza-2-73-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6049,7 +6049,7 @@
       <span class="i1">And have we no supplies?</span>
  	</p>
  	</section>
-<section id="stanza-1-73-4>
+<section id="stanza-2-73-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6060,7 +6060,7 @@
       <span class="i1">Who lives for evermore.</span>
  	</p>
  	</section>
-<section id="hymn-1-74." epub:type="z3998:hymn">
+<section id="hymn-2-74." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">74.</h3>
@@ -6069,7 +6069,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-74-1>
+<section id="stanza-2-74-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6080,7 +6080,7 @@
     <span>Prepared, should I be call'd to die?"</span>
  	</p>
  	</section>
-<section id="stanza-1-74-2>
+<section id="stanza-2-74-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6091,7 +6091,7 @@
     <span>And plunged into a world unknown.</span>
  	</p>
  	</section>
-<section id="stanza-1-74-3>
+<section id="stanza-2-74-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6102,7 +6102,7 @@
     <span>And fix my everlasting state.</span>
  	</p>
  	</section>
-<section id="stanza-1-74-4>
+<section id="stanza-2-74-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6113,7 +6113,7 @@
     <span>Thou art for ever doom'd to dwell" ?</span>
  	</p>
  	</section>
-<section id="stanza-1-74-5>
+<section id="stanza-2-74-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6124,7 +6124,7 @@
     <span>Subdue my sin and let me live.</span>
  	</p>
  	</section>
-<section id="stanza-1-74-6>
+<section id="stanza-2-74-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6135,7 +6135,7 @@
     <span>Perhaps it next may toll for me.</span>
  	</p>
  	</section>
-<section id="stanza-1-74-7>
+<section id="stanza-2-74-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -6146,7 +6146,7 @@
     <span>Secure of heaven if thou art mine.</span>
  	</p>
  	</section>
-<section id="hymn-1-75." epub:type="z3998:hymn">
+<section id="hymn-2-75." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">75.</h3>
@@ -6155,7 +6155,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-75-1>
+<section id="stanza-2-75-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6166,7 +6166,7 @@
       <span class="i1">And thou return to God.</span>
  	</p>
  	</section>
-<section id="stanza-1-75-2>
+<section id="stanza-2-75-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6177,7 +6177,7 @@
       <span class="i1">I have a heav'nly home ?"</span>
  	</p>
  	</section>
-<section id="stanza-1-75-3>
+<section id="stanza-2-75-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6188,7 +6188,7 @@
       <span class="i1">A mansion in the skies.</span>
  	</p>
  	</section>
-<section id="stanza-1-75-4>
+<section id="stanza-2-75-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6199,7 +6199,7 @@
       <span class="i1">To Him who is my all.</span>
  	</p>
  	</section>
-<section id="stanza-1-75-5>
+<section id="stanza-2-75-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6210,7 +6210,7 @@
       <span class="i1">"Death, thou hast lost thy sting!"</span>
  	</p>
  	</section>
-<section id="stanza-1-75-6>
+<section id="stanza-2-75-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6221,7 +6221,7 @@
       <span class="i1">Before the dying hour.</span>
  	</p>
  	</section>
-<section id="hymn-1-76." epub:type="z3998:hymn">
+<section id="hymn-2-76." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">76.</h3>
@@ -6230,7 +6230,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-76-1>
+<section id="stanza-2-76-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6241,7 +6241,7 @@
       <span class="i1">For all whom here he guides.</span>
  	</p>
  	</section>
-<section id="stanza-1-76-2>
+<section id="stanza-2-76-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6252,7 +6252,7 @@
       <span class="i1">No more approach the blest.</span>
  	</p>
  	</section>
-<section id="stanza-1-76-3>
+<section id="stanza-2-76-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6263,7 +6263,7 @@
       <span class="i1">In harassing my mind.</span>
  	</p>
  	</section>
-<section id="stanza-1-76-4>
+<section id="stanza-2-76-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6274,7 +6274,7 @@
       <span class="i1">My soul must faint and die:</span>
  	</p>
  	</section>
-<section id="stanza-1-76-5>
+<section id="stanza-2-76-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6285,7 +6285,7 @@
       <span class="i1">O'er all that can oppose.</span>
  	</p>
  	</section>
-<section id="stanza-1-76-6>
+<section id="stanza-2-76-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6296,7 +6296,7 @@
       <span class="i1">The sweeter rest will be.</span>
  	</p>
  	</section>
-<section id="hymn-1-77." epub:type="z3998:hymn">
+<section id="hymn-2-77." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">77.</h3>
@@ -6305,7 +6305,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-77-1>
+<section id="stanza-2-77-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6317,7 +6317,7 @@
     <span>How the summons will the sinner's heart confound!</span>
  	</p>
  	</section>
-<section id="stanza-1-77-2>
+<section id="stanza-2-77-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6329,7 +6329,7 @@
     <span>Gracious Saviour, own me in that day for thine.</span>
  	</p>
  	</section>
-<section id="stanza-1-77-3>
+<section id="stanza-2-77-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6341,7 +6341,7 @@
     <span>Careless sinner, what will then become of thee?</span>
  	</p>
  	</section>
-<section id="stanza-1-77-4>
+<section id="stanza-2-77-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6353,7 +6353,7 @@
     <span>Thou with Satan and his angels have thy part!"</span>
  	</p>
  	</section>
-<section id="stanza-1-77-5>
+<section id="stanza-2-77-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6365,7 +6365,7 @@
     <span>Think, poor sinner, thy eternal all's at stake.</span>
  	</p>
  	</section>
-<section id="stanza-1-77-6>
+<section id="stanza-2-77-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6377,7 +6377,7 @@
     <span>You for ever shall my love and glory know."</span>
  	</p>
  	</section>
-<section id="stanza-1-77-7>
+<section id="stanza-2-77-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -6389,7 +6389,7 @@
     <span>We shall triumph when the world is in a blaze.</span>
  	</p>
  	</section>
-<section id="hymn-1-78." epub:type="z3998:hymn">
+<section id="hymn-2-78." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">78.</h3>
@@ -6398,7 +6398,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-78-1>
+<section id="stanza-2-78-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6409,7 +6409,7 @@
     <span>And days and ages are the same.</span>
  	</p>
  	</section>
-<section id="stanza-1-78-2>
+<section id="stanza-2-78-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6420,7 +6420,7 @@
     <span>Will find he has a day of doom,</span>
  	</p>
  	</section>
-<section id="stanza-1-78-3>
+<section id="stanza-2-78-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6431,7 +6431,7 @@
     <span>Of time their ceaseless motion keep!</span>
  	</p>
  	</section>
-<section id="stanza-1-78-4>
+<section id="stanza-2-78-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6442,7 +6442,7 @@
     <span>First kindled by his vengeful eye!</span>
  	</p>
  	</section>
-<section id="stanza-1-78-5>
+<section id="stanza-2-78-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6453,7 +6453,7 @@
     <span>Poor sinner, whither wilt thou turn?</span>
  	</p>
  	</section>
-<section id="stanza-1-78-6>
+<section id="stanza-2-78-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6464,7 +6464,7 @@
     <span>Shall perish in one common fire.</span>
  	</p>
  	</section>
-<section id="stanza-1-78-7>
+<section id="stanza-2-78-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -6475,7 +6475,7 @@
     <span>And there be found amongst thy friends.</span>
  	</p>
  	</section>
-<section id="hymn-1-79." epub:type="z3998:hymn">
+<section id="hymn-2-79." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">79.</h3>
@@ -6484,7 +6484,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead">Rev. xx, 11, 12.</p>
   </header>
-<section id="stanza-1-79-1>
+<section id="stanza-2-79-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6499,7 +6499,7 @@
     <span>What will then become of me?</span>
  	</p>
  	</section>
-<section id="stanza-1-79-2>
+<section id="stanza-2-79-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6514,7 +6514,7 @@
     <span>Ah, my soul, what canst thou do?</span>
  	</p>
  	</section>
-<section id="stanza-1-79-3>
+<section id="stanza-2-79-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6529,7 +6529,7 @@
     <span>In that hour what wilt thou do?</span>
  	</p>
  	</section>
-<section id="stanza-1-79-4>
+<section id="stanza-2-79-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6544,7 +6544,7 @@
     <span>I have sinn'd, but thou hast died.</span>
  	</p>
  	</section>
-<section id="stanza-1-79-5>
+<section id="stanza-2-79-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6559,7 +6559,7 @@
     <span>What thy mercy wrought below.</span>
  	</p>
  	</section>
-<section id="hymn-1-80." epub:type="z3998:hymn">
+<section id="hymn-2-80." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">80.</h3>
@@ -6568,7 +6568,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-80-1>
+<section id="stanza-2-80-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6579,7 +6579,7 @@
     <span>Admired the plan, and sung his praise.</span>
  	</p>
  	</section>
-<section id="stanza-1-80-2>
+<section id="stanza-2-80-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6590,7 +6590,7 @@
     <span>And sun and stars and sea and land.</span>
  	</p>
  	</section>
-<section id="stanza-1-80-3>
+<section id="stanza-2-80-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6601,7 +6601,7 @@
     <span>And birds and beasts and man were made.</span>
  	</p>
  	</section>
-<section id="stanza-1-80-4>
+<section id="stanza-2-80-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6612,7 +6612,7 @@
     <span>Is dark, deform'd, and void and waste.</span>
  	</p>
  	</section>
-<section id="stanza-1-80-5>
+<section id="stanza-2-80-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6623,7 +6623,7 @@
     <span>And kindled darkness into day.</span>
  	</p>
  	</section>
-<section id="stanza-1-80-6>
+<section id="stanza-2-80-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6634,7 +6634,7 @@
     <span>And all our hearts create anew.</span>
  	</p>
  	</section>
-<section id="hymn-1-81." epub:type="z3998:hymn">
+<section id="hymn-2-81." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">81.</h3>
@@ -6643,7 +6643,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-81-1>
+<section id="stanza-2-81-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6654,7 +6654,7 @@
       <span class="i1">We cannot read a word.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-2>
+<section id="stanza-2-81-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6665,7 +6665,7 @@
       <span class="i1">To understand a page.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-3>
+<section id="stanza-2-81-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6676,7 +6676,7 @@
       <span class="i1">Their wisdom cannot reach.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-4>
+<section id="stanza-2-81-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6687,7 +6687,7 @@
       <span class="i1">Though present everywhere.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-5>
+<section id="stanza-2-81-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6698,7 +6698,7 @@
       <span class="i1">Though men account them fools.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-6>
+<section id="stanza-2-81-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6709,7 +6709,7 @@
       <span class="i1">Divine instructions yield.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-7>
+<section id="stanza-2-81-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -6720,7 +6720,7 @@
       <span class="i1">His providence and love.</span>
  	</p>
  	</section>
-<section id="stanza-1-81-8>
+<section id="stanza-2-81-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -6731,7 +6731,7 @@
       <span class="i1">At what they cannot read.</span>
  	</p>
  	</section>
-<section id="hymn-1-82." epub:type="z3998:hymn">
+<section id="hymn-2-82." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">82.</h3>
@@ -6740,7 +6740,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-82-1>
+<section id="stanza-2-82-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6753,7 +6753,7 @@
     <span>This bright arch is never seen.</span>
  	</p>
  	</section>
-<section id="stanza-1-82-2>
+<section id="stanza-2-82-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6766,7 +6766,7 @@
     <span>Paint a rainbow on the storm.</span>
  	</p>
  	</section>
-<section id="stanza-1-82-3>
+<section id="stanza-2-82-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6779,7 +6779,7 @@
     <span>To the cloud their brightness owe.</span>
  	</p>
  	</section>
-<section id="stanza-1-82-4>
+<section id="stanza-2-82-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6792,7 +6792,7 @@
     <span>But the bow will still be seen.</span>
  	</p>
  	</section>
-<section id="hymn-1-83." epub:type="z3998:hymn">
+<section id="hymn-2-83." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">83.</h3>
@@ -6801,7 +6801,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-83-1>
+<section id="stanza-2-83-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6812,7 +6812,7 @@
       <span class="i1">Proclaim the tempest near;</span>
  	</p>
  	</section>
-<section id="stanza-1-83-2>
+<section id="stanza-2-83-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6823,7 +6823,7 @@
       <span class="i1">And conscience thunders too.</span>
  	</p>
  	</section>
-<section id="stanza-1-83-3>
+<section id="stanza-2-83-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6834,7 +6834,7 @@
       <span class="i1">He trembles and believes.</span>
  	</p>
  	</section>
-<section id="stanza-1-83-4>
+<section id="stanza-2-83-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6845,7 +6845,7 @@
       <span class="i1">Just as he did before.</span>
  	</p>
  	</section>
-<section id="stanza-1-83-5>
+<section id="stanza-2-83-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6856,7 +6856,7 @@
       <span class="i1">Shall all dissolve in flame?</span>
  	</p>
  	</section>
-<section id="stanza-1-83-6>
+<section id="stanza-2-83-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6867,7 +6867,7 @@
       <span class="i1">Or stand before his frown?</span>
  	</p>
  	</section>
-<section id="stanza-1-83-7>
+<section id="stanza-2-83-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -6878,7 +6878,7 @@
       <span class="i1">"Ye cursed ones, depart!"</span>
  	</p>
  	</section>
-<section id="stanza-1-83-8>
+<section id="stanza-2-83-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -6889,7 +6889,7 @@
       <span class="i1">That tells you, "Jesus reigns!"</span>
  	</p>
  	</section>
-<section id="hymn-1-84." epub:type="z3998:hymn">
+<section id="hymn-2-84." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">84.</h3>
@@ -6898,7 +6898,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-84-1>
+<section id="stanza-2-84-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6909,7 +6909,7 @@
     <span>As suddenly it disappears.</span>
  	</p>
  	</section>
-<section id="stanza-1-84-2>
+<section id="stanza-2-84-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -6920,7 +6920,7 @@
     <span>Which, soon as seen, are snatch d away,</span>
  	</p>
  	</section>
-<section id="stanza-1-84-3>
+<section id="stanza-2-84-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -6931,7 +6931,7 @@
     <span>And swallows up my joys again.</span>
  	</p>
  	</section>
-<section id="stanza-1-84-4>
+<section id="stanza-2-84-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -6942,7 +6942,7 @@
     <span>And prove that what I read was true,</span>
  	</p>
  	</section>
-<section id="stanza-1-84-5>
+<section id="stanza-2-84-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -6953,7 +6953,7 @@
     <span>Of what the darkness had conceal d.</span>
  	</p>
  	</section>
-<section id="stanza-1-84-6>
+<section id="stanza-2-84-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -6964,7 +6964,7 @@
     <span>To live by faith till light prevail.</span>
  	</p>
  	</section>
-<section id="stanza-1-84-7>
+<section id="stanza-2-84-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -6975,7 +6975,7 @@
     <span>But see by an eternal light.</span>
  	</p>
  	</section>
-<section id="hymn-1-85." epub:type="z3998:hymn">
+<section id="hymn-2-85." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">85.</h3>
@@ -6984,7 +6984,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-85-1>
+<section id="stanza-2-85-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -6995,7 +6995,7 @@
       <span class="i1">To intercept her light</span>
  	</p>
  	</section>
-<section id="stanza-1-85-2>
+<section id="stanza-2-85-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7006,7 +7006,7 @@
       <span class="i1">Was all appear'd in view.</span>
  	</p>
  	</section>
-<section id="stanza-1-85-3>
+<section id="stanza-2-85-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7017,7 +7017,7 @@
       <span class="i1">Instruction to obtain.</span>
  	</p>
  	</section>
-<section id="stanza-1-85-4>
+<section id="stanza-2-85-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7028,7 +7028,7 @@
       <span class="i1">In sad Gethsemane.</span>
  	</p>
  	</section>
-<section id="stanza-1-85-5>
+<section id="stanza-2-85-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7039,7 +7039,7 @@
       <span class="i1">And fill'd thy soul with gloom.</span>
  	</p>
  	</section>
-<section id="stanza-1-85-6>
+<section id="stanza-2-85-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7050,7 +7050,7 @@
       <span class="i1">Thy promises fulfill.</span>
  	</p>
  	</section>
-<section id="stanza-1-85-7>
+<section id="stanza-2-85-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7061,7 +7061,7 @@
       <span class="i1">But what thy beams afford.</span>
  	</p>
  	</section>
-<section id="stanza-1-85-8>
+<section id="stanza-2-85-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -7072,7 +7072,7 @@
       <span class="i1">And be eclipsed no more.</span>
  	</p>
  	</section>
-<section id="hymn-1-86." epub:type="z3998:hymn">
+<section id="hymn-2-86." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">86.</h3>
@@ -7081,7 +7081,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-86-1>
+<section id="stanza-2-86-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7092,7 +7092,7 @@
       <span class="i1">And hides herself by day.</span>
  	</p>
  	</section>
-<section id="stanza-1-86-2>
+<section id="stanza-2-86-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7103,7 +7103,7 @@
       <span class="i1">Till we were starved with cold.</span>
  	</p>
  	</section>
-<section id="stanza-1-86-3>
+<section id="stanza-2-86-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7114,7 +7114,7 @@
       <span class="i1">Nor warm the frozen heart.</span>
  	</p>
  	</section>
-<section id="stanza-1-86-4>
+<section id="stanza-2-86-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7125,7 +7125,7 @@
       <span class="i1">Without a spark of love?</span>
  	</p>
  	</section>
-<section id="stanza-1-86-5>
+<section id="stanza-2-86-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7136,7 +7136,7 @@
       <span class="i1">Appears no longer bright.</span>
  	</p>
  	</section>
-<section id="stanza-1-86-6>
+<section id="stanza-2-86-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7147,7 +7147,7 @@
       <span class="i1">And sin prevails no more.</span>
  	</p>
  	</section>
-<section id="hymn-1-87." epub:type="z3998:hymn">
+<section id="hymn-2-87." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">87.</h3>
@@ -7156,7 +7156,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-87-1>
+<section id="stanza-2-87-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7167,7 +7167,7 @@
     <span>Th'inexperienced landsman's fears;</span>
  	</p>
  	</section>
-<section id="stanza-1-87-2>
+<section id="stanza-2-87-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7178,7 +7178,7 @@
     <span>Disclose a thousand threat'ning graves.</span>
  	</p>
  	</section>
-<section id="stanza-1-87-3>
+<section id="stanza-2-87-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7189,7 +7189,7 @@
     <span>But ah! it proved as treach'rous too.</span>
  	</p>
  	</section>
-<section id="stanza-1-87-4>
+<section id="stanza-2-87-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7200,7 +7200,7 @@
     <span>Because my foes were then conceal d.</span>
  	</p>
  	</section>
-<section id="stanza-1-87-5>
+<section id="stanza-2-87-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7211,7 +7211,7 @@
     <span>And saw the horrors of the deep.</span>
  	</p>
  	</section>
-<section id="stanza-1-87-6>
+<section id="stanza-2-87-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7222,7 +7222,7 @@
     <span>Plunged me in gulfs of black despair.</span>
  	</p>
  	</section>
-<section id="stanza-1-87-7>
+<section id="stanza-2-87-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7233,7 +7233,7 @@
     <span>And all my fears were hush d to peace.</span>
  	</p>
  	</section>
-<section id="stanza-1-87-8>
+<section id="stanza-2-87-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -7244,7 +7244,7 @@
     <span>Then let me never trust it more.</span>
  	</p>
  	</section>
-<section id="hymn-1-88." epub:type="z3998:hymn">
+<section id="hymn-2-88." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">88.</h3>
@@ -7253,7 +7253,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-88-1>
+<section id="stanza-2-88-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7264,7 +7264,7 @@
       <span class="i1">And form a mighty flood.</span>
  	</p>
  	</section>
-<section id="stanza-1-88-2>
+<section id="stanza-2-88-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7275,7 +7275,7 @@
       <span class="i1">It sweep the whole away.</span>
  	</p>
  	</section>
-<section id="stanza-1-88-3>
+<section id="stanza-2-88-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7286,7 +7286,7 @@
       <span class="i1">And stands upon a rock.</span>
  	</p>
  	</section>
-<section id="stanza-1-88-4>
+<section id="stanza-2-88-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7297,7 +7297,7 @@
       <span class="i1">To count the sum of all.</span>
  	</p>
  	</section>
-<section id="stanza-1-88-5>
+<section id="stanza-2-88-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7308,7 +7308,7 @@
       <span class="i1">Shall join to swell the whole!</span>
  	</p>
  	</section>
-<section id="stanza-1-88-6>
+<section id="stanza-2-88-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7319,7 +7319,7 @@
       <span class="i1">When the fierce flood comes down.</span>
  	</p>
  	</section>
-<section id="stanza-1-88-7>
+<section id="stanza-2-88-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7330,7 +7330,7 @@
       <span class="i1">With ruin on your head.</span>
  	</p>
  	</section>
-<section id="hymn-1-89." epub:type="z3998:hymn">
+<section id="hymn-2-89." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">89.</h3>
@@ -7339,7 +7339,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-89-1>
+<section id="stanza-2-89-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7350,7 +7350,7 @@
       <span class="i1">And can no more be found.</span>
  	</p>
  	</section>
-<section id="stanza-1-89-2>
+<section id="stanza-2-89-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7361,7 +7361,7 @@
       <span class="i1">Or make the waters flow?</span>
  	</p>
  	</section>
-<section id="stanza-1-89-3>
+<section id="stanza-2-89-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7372,7 +7372,7 @@
       <span class="i1">In his appointed hour.</span>
  	</p>
  	</section>
-<section id="stanza-1-89-4>
+<section id="stanza-2-89-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7383,7 +7383,7 @@
       <span class="i1">He cannot learn to love.</span>
  	</p>
  	</section>
-<section id="stanza-1-89-5>
+<section id="stanza-2-89-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7394,7 +7394,7 @@
       <span class="i1">His heart dissolves apace.</span>
  	</p>
  	</section>
-<section id="stanza-1-89-6>
+<section id="stanza-2-89-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7405,7 +7405,7 @@
       <span class="i1">All melt away like snow.</span>
  	</p>
  	</section>
-<section id="stanza-1-89-7>
+<section id="stanza-2-89-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7416,7 +7416,7 @@
       <span class="i1">Our frozen hearts to warm.</span>
  	</p>
  	</section>
-<section id="hymn-1-90." epub:type="z3998:hymn">
+<section id="hymn-2-90." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">90.</h3>
@@ -7425,7 +7425,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-90-1>
+<section id="stanza-2-90-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7436,7 +7436,7 @@
     <span>A tendency before unknown.</span>
  	</p>
  	</section>
-<section id="stanza-1-90-2>
+<section id="stanza-2-90-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7447,7 +7447,7 @@
     <span>To nothing fix'd but love of change.</span>
  	</p>
  	</section>
-<section id="stanza-1-90-3>
+<section id="stanza-2-90-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7458,7 +7458,7 @@
     <span>Are fix'd at once, no more to move.</span>
  	</p>
  	</section>
-<section id="stanza-1-90-4>
+<section id="stanza-2-90-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7469,7 +7469,7 @@
     <span>Constrains to good, and bars from ill.</span>
  	</p>
  	</section>
-<section id="stanza-1-90-5>
+<section id="stanza-2-90-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7480,7 +7480,7 @@
     <span>To love and serve our Lord and Friend,</span>
  	</p>
  	</section>
-<section id="stanza-1-90-6>
+<section id="stanza-2-90-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7491,7 +7491,7 @@
     <span>Will draw the sinner upward too.</span>
  	</p>
  	</section>
-<section id="hymn-1-91." epub:type="z3998:hymn">
+<section id="hymn-2-91." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">91.</h3>
@@ -7500,7 +7500,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-91-1>
+<section id="stanza-2-91-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7511,7 +7511,7 @@
     <span>Is diff'rent as their natures are.</span>
  	</p>
  	</section>
-<section id="stanza-1-91-2>
+<section id="stanza-2-91-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7522,7 +7522,7 @@
     <span>And then returns in quest of more.</span>
  	</p>
  	</section>
-<section id="stanza-1-91-3>
+<section id="stanza-2-91-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7533,7 +7533,7 @@
     <span>And poison all the stores within.</span>
  	</p>
  	</section>
-<section id="stanza-1-91-4>
+<section id="stanza-2-91-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7544,7 +7544,7 @@
     <span>And bring home honey to the hive.</span>
  	</p>
  	</section>
-<section id="stanza-1-91-5>
+<section id="stanza-2-91-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7555,7 +7555,7 @@
     <span>To poison all their food converts.</span>
  	</p>
  	</section>
-<section id="stanza-1-91-6>
+<section id="stanza-2-91-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7566,7 +7566,7 @@
     <span>To trifle with the holy law.</span>
  	</p>
  	</section>
-<section id="stanza-1-91-7>
+<section id="stanza-2-91-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7577,7 +7577,7 @@
     <span>We sink to hell with heaven in view.</span>
  	</p>
  	</section>
-<section id="hymn-1-92." epub:type="z3998:hymn">
+<section id="hymn-2-92." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">92.</h3>
@@ -7586,7 +7586,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-92-1>
+<section id="stanza-2-92-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7597,7 +7597,7 @@
       <span class="i1">To which the bee repairs.</span>
  	</p>
  	</section>
-<section id="stanza-1-92-2>
+<section id="stanza-2-92-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7608,7 +7608,7 @@
       <span class="i1">To poison and destroy.</span>
  	</p>
  	</section>
-<section id="stanza-1-92-3>
+<section id="stanza-2-92-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7619,7 +7619,7 @@
       <span class="i1">And set the captive free!</span>
  	</p>
  	</section>
-<section id="stanza-1-92-4>
+<section id="stanza-2-92-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7630,7 +7630,7 @@
       <span class="i1">Where sweets I knew were stored.</span>
  	</p>
  	</section>
-<section id="stanza-1-92-5>
+<section id="stanza-2-92-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7641,7 +7641,7 @@
       <span class="i1">Who caught me in his web.</span>
  	</p>
  	</section>
-<section id="stanza-1-92-6>
+<section id="stanza-2-92-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7652,7 +7652,7 @@
       <span class="i1">Could neither fight nor flee.</span>
  	</p>
  	</section>
-<section id="stanza-1-92-7>
+<section id="stanza-2-92-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7663,7 +7663,7 @@
       <span class="i1">And broke the fatal snare.</span>
  	</p>
  	</section>
-<section id="stanza-1-92-8>
+<section id="stanza-2-92-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -7674,7 +7674,7 @@
       <span class="i1">And where to look for aid!</span>
  	</p>
  	</section>
-<section id="hymn-1-93." epub:type="z3998:hymn">
+<section id="hymn-2-93." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">93.</h3>
@@ -7683,7 +7683,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-93-1>
+<section id="stanza-2-93-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7694,7 +7694,7 @@
       <span class="i1">And gentle as a lamb.</span>
  	</p>
  	</section>
-<section id="stanza-1-93-2>
+<section id="stanza-2-93-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7705,7 +7705,7 @@
       <span class="i1">A sense of gratitude.</span>
  	</p>
  	</section>
-<section id="stanza-1-93-3>
+<section id="stanza-2-93-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7716,7 +7716,7 @@
       <span class="i1">And far more fierce than they.</span>
  	</p>
  	</section>
-<section id="stanza-1-93-4>
+<section id="stanza-2-93-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7727,7 +7727,7 @@
       <span class="i1">Resists his holy will.</span>
  	</p>
  	</section>
-<section id="stanza-1-93-5>
+<section id="stanza-2-93-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7738,7 +7738,7 @@
       <span class="i1">But neither loves nor fears.</span>
  	</p>
  	</section>
-<section id="stanza-1-93-6>
+<section id="stanza-2-93-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7749,7 +7749,7 @@
       <span class="i1">They see this lion tamed!</span>
  	</p>
  	</section>
-<section id="stanza-1-93-7>
+<section id="stanza-2-93-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7760,7 +7760,7 @@
       <span class="i1">Their rage and fierceness lose.</span>
  	</p>
  	</section>
-<section id="stanza-1-93-8>
+<section id="stanza-2-93-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -7771,7 +7771,7 @@
       <span class="i1">Or keep him fast in chains.</span>
  	</p>
  	</section>
-<section id="hymn-1-94." epub:type="z3998:hymn">
+<section id="hymn-2-94." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">94.</h3>
@@ -7780,7 +7780,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-94-1>
+<section id="stanza-2-94-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7791,7 +7791,7 @@
     <span>And he alone their wants supply.</span>
  	</p>
  	</section>
-<section id="stanza-1-94-2>
+<section id="stanza-2-94-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7802,7 +7802,7 @@
     <span>Depend upon the shepherd s care.</span>
  	</p>
  	</section>
-<section id="stanza-1-94-3>
+<section id="stanza-2-94-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7813,7 +7813,7 @@
     <span>If we despond while he is near.</span>
  	</p>
  	</section>
-<section id="stanza-1-94-4>
+<section id="stanza-2-94-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7824,7 +7824,7 @@
     <span>He can defend, He will provide.</span>
  	</p>
  	</section>
-<section id="stanza-1-94-5>
+<section id="stanza-2-94-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7835,7 +7835,7 @@
     <span>And we may feel secure from foes.</span>
  	</p>
  	</section>
-<section id="stanza-1-94-6>
+<section id="stanza-2-94-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7846,7 +7846,7 @@
     <span>For he protects them with his eye.</span>
  	</p>
  	</section>
-<section id="stanza-1-94-7>
+<section id="stanza-2-94-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7857,7 +7857,7 @@
     <span>The care of all belongs to thee.</span>
  	</p>
  	</section>
-<section id="hymn-1-95." epub:type="z3998:hymn">
+<section id="hymn-2-95." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">95.</h3>
@@ -7866,7 +7866,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-95-1>
+<section id="stanza-2-95-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7877,7 +7877,7 @@
       <span class="i1">With which the spot is fill'd.</span>
  	</p>
  	</section>
-<section id="stanza-1-95-2>
+<section id="stanza-2-95-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7888,7 +7888,7 @@
       <span class="i1">And drove the rebel thence.</span>
  	</p>
  	</section>
-<section id="stanza-1-95-3>
+<section id="stanza-2-95-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7899,7 +7899,7 @@
       <span class="i1">In ruin plunged us all.</span>
  	</p>
  	</section>
-<section id="stanza-1-95-4>
+<section id="stanza-2-95-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -7910,7 +7910,7 @@
       <span class="i1">From the avenging law.</span>
  	</p>
  	</section>
-<section id="stanza-1-95-5>
+<section id="stanza-2-95-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -7921,7 +7921,7 @@
       <span class="i1">In that tremendous night!</span>
  	</p>
  	</section>
-<section id="stanza-1-95-6>
+<section id="stanza-2-95-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -7932,7 +7932,7 @@
       <span class="i1">And by his blessing grows.</span>
  	</p>
  	</section>
-<section id="stanza-1-95-7>
+<section id="stanza-2-95-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -7943,7 +7943,7 @@
       <span class="i1">But thorns and worthless weeds.</span>
  	</p>
  	</section>
-<section id="stanza-1-95-8>
+<section id="stanza-2-95-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -7954,7 +7954,7 @@
       <span class="i1">The garden of the Lord.</span>
  	</p>
  	</section>
-<section id="hymn-1-96." epub:type="z3998:hymn">
+<section id="hymn-2-96." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">96.</h3>
@@ -7963,7 +7963,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-96-1>
+<section id="stanza-2-96-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -7974,7 +7974,7 @@
       <span class="i1">To ease your weary feet,</span>
  	</p>
  	</section>
-<section id="stanza-1-96-2>
+<section id="stanza-2-96-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -7985,7 +7985,7 @@
       <span class="i1">The Lord is present here !</span>
  	</p>
  	</section>
-<section id="stanza-1-96-3>
+<section id="stanza-2-96-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -7996,7 +7996,7 @@
       <span class="i1">And give a true reply!</span>
  	</p>
  	</section>
-<section id="stanza-1-96-4>
+<section id="stanza-2-96-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -8007,7 +8007,7 @@
       <span class="i1">Your rest and hiding-place?</span>
  	</p>
  	</section>
-<section id="stanza-1-96-5>
+<section id="stanza-2-96-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -8018,7 +8018,7 @@
       <span class="i1">And guide you to the skies.</span>
  	</p>
  	</section>
-<section id="stanza-1-96-6>
+<section id="stanza-2-96-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -8029,7 +8029,7 @@
       <span class="i1">Intrude to damp your joy.</span>
  	</p>
  	</section>
-<section id="stanza-1-96-7>
+<section id="stanza-2-96-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -8040,7 +8040,7 @@
       <span class="i1">In that approaching day.</span>
  	</p>
  	</section>
-<section id="stanza-1-96-8>
+<section id="stanza-2-96-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -8051,7 +8051,7 @@
       <span class="i1">If you reject him now?</span>
  	</p>
  	</section>
-<section id="hymn-1-97." epub:type="z3998:hymn">
+<section id="hymn-2-97." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">97.</h3>
@@ -8060,7 +8060,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-97-1>
+<section id="stanza-2-97-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -8071,7 +8071,7 @@
     <span>At Moses pray'r, to quench their thirst.</span>
  	</p>
  	</section>
-<section id="stanza-1-97-2>
+<section id="stanza-2-97-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -8082,7 +8082,7 @@
     <span>To singe their garments or their hair.</span>
  	</p>
  	</section>
-<section id="stanza-1-97-3>
+<section id="stanza-2-97-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -8093,7 +8093,7 @@
     <span>Procured Elijah flesh and bread.</span>
  	</p>
  	</section>
-<section id="stanza-1-97-4>
+<section id="stanza-2-97-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -8104,7 +8104,7 @@
     <span>His purposes must be obey'd.</span>
  	</p>
  	</section>
-<section id="stanza-1-97-5>
+<section id="stanza-2-97-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -8115,7 +8115,7 @@
     <span>Our hopes in disappointment end.</span>
  	</p>
  	</section>
-<section id="stanza-1-97-6>
+<section id="stanza-2-97-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -8126,7 +8126,7 @@
     <span>They cannot hurt if he be near.</span>
  	</p>
  	</section>
-<section id="stanza-1-97-7>
+<section id="stanza-2-97-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -8137,7 +8137,7 @@
     <span>Which wound to cure, and not to kill.</span>
  	</p>
  	</section>
-<section id="hymn-1-98." epub:type="z3998:hymn">
+<section id="hymn-2-98." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">98.</h3>
@@ -8146,7 +8146,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-98-1>
+<section id="stanza-2-98-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -8157,7 +8157,7 @@
     <span>Prove something in us never sleeps.</span>
  	</p>
  	</section>
-<section id="stanza-1-98-2>
+<section id="stanza-2-98-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -8168,7 +8168,7 @@
     <span>And all familiar, though unknown.</span>
  	</p>
  	</section>
-<section id="stanza-1-98-3>
+<section id="stanza-2-98-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -8179,7 +8179,7 @@
     <span>And sometimes all we meet is new.</span>
  	</p>
  	</section>
-<section id="stanza-1-98-4>
+<section id="stanza-2-98-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -8190,7 +8190,7 @@
     <span>We scarcely then a trace recall.</span>
  	</p>
  	</section>
-<section id="stanza-1-98-5>
+<section id="stanza-2-98-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -8201,7 +8201,7 @@
     <span>Sent to admonish or inform.</span>
  	</p>
  	</section>
-<section id="stanza-1-98-6>
+<section id="stanza-2-98-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -8212,7 +8212,7 @@
     <span>When we are sleeping, who can tell?</span>
  	</p>
  	</section>
-<section id="stanza-1-98-7>
+<section id="stanza-2-98-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -8223,7 +8223,7 @@
     <span>The soul without the flesh can act.</span>
  	</p>
  	</section>
-<section id="stanza-1-98-8>
+<section id="stanza-2-98-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -8234,7 +8234,7 @@
     <span>When waken'd by death's awful call.</span>
  	</p>
  	</section>
-<section id="hymn-1-99." epub:type="z3998:hymn">
+<section id="hymn-2-99." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">99.</h3>
@@ -8243,7 +8243,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-99-1>
+<section id="stanza-2-99-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -8254,7 +8254,7 @@
     <span>But 'tis all a painted cheat.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-2>
+<section id="stanza-2-99-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -8265,7 +8265,7 @@
     <span>By experience dearly bought.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-3>
+<section id="stanza-2-99-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -8276,7 +8276,7 @@
     <span>Foreign regions to explore.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-4>
+<section id="stanza-2-99-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -8287,7 +8287,7 @@
     <span>Of a storm he little dreams.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-5>
+<section id="stanza-2-99-5>
  	<header>
  		<p>V</p>
  	</header>
@@ -8298,7 +8298,7 @@
     <span>But too late—he sinks and dies.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-6>
+<section id="stanza-2-99-6>
  	<header>
  		<p>VI</p>
  	</header>
@@ -8309,7 +8309,7 @@
     <span>Court thy pleasure, wealth, or pride.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-7>
+<section id="stanza-2-99-7>
  	<header>
  		<p>VII</p>
  	</header>
@@ -8320,7 +8320,7 @@
     <span>And restored my soul to land.</span>
  	</p>
  	</section>
-<section id="stanza-1-99-8>
+<section id="stanza-2-99-8>
  	<header>
  		<p>VIII</p>
  	</header>
@@ -8331,7 +8331,7 @@
     <span>I can trust thee, world, no more.</span>
  	</p>
  	</section>
-<section id="hymn-1-100." epub:type="z3998:hymn">
+<section id="hymn-2-100." epub:type="z3998:hymn">
   <header>
   <hgroup>
     <h3 epub:type="ordinal">100.</h3>
@@ -8340,7 +8340,7 @@
   <p epub:type="z3998:contributors">By Newton</p>
   <p epub:type="bridgehead"></p>
   </header>
-<section id="stanza-1-100-1>
+<section id="stanza-2-100-1>
  	<header>
  		<p>I</p>
  	</header>
@@ -8353,7 +8353,7 @@
       <span class="i1">And undisturb'd repose.</span>
  	</p>
  	</section>
-<section id="stanza-1-100-2>
+<section id="stanza-2-100-2>
  	<header>
  		<p>II</p>
  	</header>
@@ -8366,7 +8366,7 @@
       <span class="i1">And stop him in his way.</span>
  	</p>
  	</section>
-<section id="stanza-1-100-3>
+<section id="stanza-2-100-3>
  	<header>
  		<p>III</p>
  	</header>
@@ -8379,7 +8379,7 @@
       <span class="i1">A wilderness is found.</span>
  	</p>
  	</section>
-<section id="stanza-1-100-4>
+<section id="stanza-2-100-4>
  	<header>
  		<p>IV</p>
  	</header>
@@ -8392,7 +8392,7 @@
       <span class="i1">And bids us seek his face,</span>
  	</p>
  	</section>
-<section id="stanza-1-100-5>
+<section id="stanza-2-100-5>
  	<header>
  		<p>V</p>
  	</header>

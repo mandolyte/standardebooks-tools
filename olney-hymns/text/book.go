@@ -122,12 +122,13 @@ var (
 	oerr          error
 	baseFileName  string
 	originalMeter string
+	bookNum       string
 )
 
 func fileWriter(line string) {
 	_, oerr = ofile.WriteString(line)
 	if oerr != nil {
-		log.Fatalf("FATAL: Could not write to file book-2.txt: %v\n", oerr)
+		log.Fatalf("FATAL: Could not write to file book-%v.txt: %v\n", bookNum, oerr)
 	}
 }
 
@@ -138,13 +139,14 @@ func main() {
 		return
 	}
 	baseFileName = os.Args[1]
+	bookNum = string(baseFileName[len(baseFileName)-1])
 
 	// 1. Open (or create) the file for writing
 	// os.Create creates the file if it doesn't exist, or truncates it if it does.
 	ofilename := baseFileName + ".txt"
 	ofile, oerr = os.Create(ofilename)
 	if oerr != nil {
-		log.Fatalf("FATAL: Could not create file book-2.txt: %v", oerr)
+		log.Fatalf("FATAL: Could not create file book-%v.txt: %v", bookNum, oerr)
 	}
 	defer ofile.Close()
 
@@ -225,14 +227,22 @@ func main() {
 				log.Fatalf("FATAL ERROR\n: Cowper flag not No or Yes: %v\n", cowperFlag)
 			}
 			fmt.Printf("CSV: %s, %s\n", records[rowIndex][meterCol], records[rowIndex][titleCol])
-			switch hymn_number {
-			case "89.", "90.", "91.", "92.", "94.", "95.", "98.", "102.", "103.", "104.", "105.", "106.", "107.":
-				// don't do the title compare
-				// Now process the stanza lines
-				// Do this in a function using the current index i
-				originalMeter = records[rowIndex][meterCol]
-				process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i, lines, records[rowIndex][meterCol])
-			default:
+			if baseFileName == "book-3" {
+				switch hymn_number {
+				case "89.", "90.", "91.", "92.", "94.", "95.", "98.", "102.", "103.", "104.", "105.", "106.", "107.":
+					// don't do the title compare
+					// Now process the stanza lines
+					// Do this in a function using the current index i
+					originalMeter = records[rowIndex][meterCol]
+					process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i, lines, records[rowIndex][meterCol])
+				default:
+					AssertStringsMatchCaseInsensitive(title, csvTitle)
+					// Now process the stanza lines
+					// Do this in a function using the current index i
+					originalMeter = records[rowIndex][meterCol]
+					process_stanzas(cowperFlag, scriptureRef, title+".", hymn_number, i+1, lines, records[rowIndex][meterCol])
+				}
+			} else {
 				AssertStringsMatchCaseInsensitive(title, csvTitle)
 				// Now process the stanza lines
 				// Do this in a function using the current index i
@@ -337,7 +347,7 @@ func printStanzaHeader(hymn_number string, stanza_number int) {
 		10: "X",
 	}
 	h := strings.TrimSuffix(hymn_number, ".")
-	fileWriter(fmt.Sprintf("<section id=\"stanza-1-%v-%d>\n", h, stanza_number))
+	fileWriter(fmt.Sprintf("<section id=\"stanza-%v-%v-%d>\n", bookNum, h, stanza_number))
 	fileWriter(" 	<header>\n")
 	fileWriter(fmt.Sprintf(" 		<p>%v</p>\n", romanNumerals[stanza_number]))
 	fileWriter(" 	</header>\n")
@@ -359,7 +369,7 @@ func process_stanzas(cowperFlag, reference, hymn_title, hymn_number string, star
 		author = "Newton"
 	}
 	// Print poem section heading lines
-	fileWriter(fmt.Sprintf("<section id=\"hymn-1-%v\" epub:type=\"z3998:hymn\">\n", hymn_number))
+	fileWriter(fmt.Sprintf("<section id=\"hymn-%v-%v\" epub:type=\"z3998:hymn\">\n", bookNum, hymn_number))
 	fileWriter("  <header>\n")
 	fileWriter("  <hgroup>\n")
 	fileWriter(fmt.Sprintf("    <h3 epub:type=\"ordinal\">%v</h3>\n", hymn_number))
