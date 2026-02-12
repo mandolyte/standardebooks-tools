@@ -32,10 +32,10 @@ const xmlHeader string = `<?xml version="1.0" encoding="utf-8"?>
 	<link href="../css/local.css" rel="stylesheet" type="text/css"/>
 </head>
 <body epub:type="bodymatter z3998:fiction">
-<section id="$BOOKDASHNUM$" epub:type="part">
+  <section id="$BOOKDASHNUM$" epub:type="part">
 `
 
-const xmlFooter string = `</section>
+const xmlFooter string = `  </section>
 </body>
 </html>
 `
@@ -141,7 +141,7 @@ var (
 func fileWriter(line string) {
 	_, oerr = ofile.WriteString(line)
 	if oerr != nil {
-		log.Fatalf("FATAL: Could not write to file book-%v.txt: %v\n", bookNum, oerr)
+		log.Fatalf("FATAL: Could not write to file book-%v.xhtml: %v\n", bookNum, oerr)
 	}
 }
 
@@ -156,7 +156,7 @@ func main() {
 
 	// 1. Open (or create) the file for writing
 	// os.Create creates the file if it doesn't exist, or truncates it if it does.
-	ofilename := baseFileName + ".txt"
+	ofilename := baseFileName + ".xhtml"
 	ofile, oerr = os.Create(ofilename)
 	if oerr != nil {
 		log.Fatalf("FATAL: Could not create file book-%v.txt: %v", bookNum, oerr)
@@ -191,7 +191,7 @@ func main() {
 	fileWriter((_xmlHeader))
 
 	// 3. Open the file
-	fileName := baseFileName + ".xhtml"
+	fileName := baseFileName + ".txt"
 	file, err := os.Open(fileName)
 	if err != nil {
 		log.Fatalf("Error opening file: %s", err)
@@ -358,16 +358,16 @@ func verify_stanza_data(hymn_number string, expected_line_count int, stanza_line
 
 func printStanzaHeader(hymn_number string, stanza_number int) {
 	h := strings.TrimSuffix(hymn_number, ".")
-	fileWriter(fmt.Sprintf("<section id=\"stanza-%v-%v-%d>\n", bookNum, h, stanza_number))
-	fileWriter(" 	<header>\n")
-	fileWriter(fmt.Sprintf(" 		<p>%v</p>\n", romanNumerals[stanza_number]))
-	fileWriter(" 	</header>\n")
-	fileWriter(" 	<p>\n")
+	fileWriter(fmt.Sprintf("      <section id=\"stanza-%v-%v-%d\">\n", bookNum, h, stanza_number))
+	fileWriter("        <header>\n")
+	fileWriter(fmt.Sprintf("          <p>%v</p>\n", romanNumerals[stanza_number]))
+	fileWriter("        </header>\n")
+	fileWriter("          <p>\n")
 }
 
 func printStanzaFooter() {
-	fileWriter(" 	</p>\n")
-	fileWriter(" 	</section>\n")
+	fileWriter(" 	       </p>\n")
+	fileWriter("      </section>\n")
 }
 
 func process_stanzas(cowperFlag, reference, hymn_title, hymn_number string, startIndex int, lines []string, meter string) {
@@ -380,15 +380,15 @@ func process_stanzas(cowperFlag, reference, hymn_title, hymn_number string, star
 		author = "Newton"
 	}
 	// Print poem section heading lines
-	fileWriter(fmt.Sprintf("<section id=\"hymn-%v-%v\" epub:type=\"z3998:hymn\">\n", bookNum, hymn_number))
-	fileWriter("  <header>\n")
-	fileWriter("  <hgroup>\n")
-	fileWriter(fmt.Sprintf("    <h3 epub:type=\"ordinal\">%v</h3>\n", hymn_number))
-	fileWriter(fmt.Sprintf("    <p epub:type=\"title\">%v</p>\n", hymn_title))
-	fileWriter("  </hgroup>\n")
-	fileWriter(fmt.Sprintf("  <p epub:type=\"z3998:contributors\">By %v</p>\n", author))
-	fileWriter(fmt.Sprintf("  <p epub:type=\"bridgehead\">%v</p>\n", reference))
-	fileWriter("  </header>\n")
+	fileWriter(fmt.Sprintf("    <section id=\"hymn-%v-%v\" epub:type=\"z3998:hymn\">\n", bookNum, hymn_number))
+	fileWriter("      <header>\n")
+	fileWriter("        <hgroup>\n")
+	fileWriter(fmt.Sprintf("          <h3 epub:type=\"ordinal\">%v</h3>\n", hymn_number))
+	fileWriter(fmt.Sprintf("          <p epub:type=\"title\">%v</p>\n", hymn_title))
+	fileWriter("        </hgroup>\n")
+	fileWriter(fmt.Sprintf("        <p epub:type=\"z3998:contributors\">By %v</p>\n", author))
+	fileWriter(fmt.Sprintf("        <p epub:type=\"bridgehead\">%v</p>\n", reference))
+	fileWriter("      </header>\n")
 
 	// stanza header for first stanza
 	printStanzaHeader(hymn_number, 1)
@@ -419,6 +419,8 @@ func process_stanzas(cowperFlag, reference, hymn_title, hymn_number string, star
 			printStanzaLine(stanza_line_count, lines[i], meter)
 		}
 	}
+	// print hymn footer
+	fileWriter("    </section>\n")
 	fmt.Printf("Number of stanzas: %v\n", stanza_count)
 }
 
@@ -512,13 +514,13 @@ func printStanzaLine(stanza_line_count int, line string, meter string) {
 }
 
 func line_no_indent(line string) {
-	fileWriter(fmt.Sprintf("    <span>%v</span>\n", line))
+	fileWriter(fmt.Sprintf("          <span>%v</span>\n", line))
 }
 
 func line_1_indent(line string) {
-	fileWriter(fmt.Sprintf("      <span class=\"i1\">%v</span>\n", line))
+	fileWriter(fmt.Sprintf("          <span class=\"i1\">%v</span>\n", line))
 }
 
 func line_2_indent(line string) {
-	fileWriter(fmt.Sprintf("      <span class=\"i2\">%v</span>\n", line))
+	fileWriter(fmt.Sprintf("          <span class=\"i2\">%v</span>\n", line))
 }
