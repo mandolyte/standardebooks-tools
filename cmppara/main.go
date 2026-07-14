@@ -102,67 +102,88 @@ func main() {
 	len1 := len(paragraphs1)
 	len2 := len(paragraphs2)
 
-	if len1 != len2 {
-		fmt.Println("Error: The files do not have the same number of paragraphs.")
-		fmt.Printf("%s contains %d paragraph(s).\n", file1Name, len1)
-		fmt.Printf("%s contains %d paragraph(s).\n", file2Name, len2)
-		os.Exit(1)
+	// Determine the maximum bounds to check
+	maxLen := len1
+	if len2 > maxLen {
+		maxLen = len2
 	}
 
-	for i := 0; i < len1; i++ {
-		p1Text := paragraphs1[i]
-		p2Text := paragraphs2[i]
+	for i := 0; i < maxLen; i++ {
+		// Case A: Both files have a paragraph at this index -> Compare their content
+		if i < len1 && i < len2 {
+			p1Text := paragraphs1[i]
+			p2Text := paragraphs2[i]
 
-		words1 := strings.Fields(p1Text)
-		words2 := strings.Fields(p2Text)
+			words1 := strings.Fields(p1Text)
+			words2 := strings.Fields(p2Text)
 
-		p1WordsCount := len(words1)
-		p2WordsCount := len(words2)
+			p1WordsCount := len(words1)
+			p2WordsCount := len(words2)
 
-		if p1WordsCount != p2WordsCount {
-			// Find the index of the first differing word
-			mismatchIdx := 0
-			minLen := p1WordsCount
-			if p2WordsCount < minLen {
-				minLen = p2WordsCount
-			}
-
-			for j := 0; j < minLen; j++ {
-				if words1[j] != words2[j] {
-					mismatchIdx = j
-					break
+			if p1WordsCount != p2WordsCount {
+				// Find the index of the first differing word
+				mismatchIdx := 0
+				minLen := p1WordsCount
+				if p2WordsCount < minLen {
+					minLen = p2WordsCount
 				}
-				// If they match all the way up to the end of the shorter paragraph,
-				// the mismatch is the very next word in the longer paragraph.
-				if j == minLen-1 {
-					mismatchIdx = minLen
+
+				for j := 0; j < minLen; j++ {
+					if words1[j] != words2[j] {
+						mismatchIdx = j
+						break
+					}
+					if j == minLen-1 {
+						mismatchIdx = minLen
+					}
 				}
-			}
 
-			// Slice up to the mismatch (inclusive of the differing word)
-			limit1 := mismatchIdx + 1
-			if limit1 > p1WordsCount {
-				limit1 = p1WordsCount
-			}
-			limit2 := mismatchIdx + 1
-			if limit2 > p2WordsCount {
-				limit2 = p2WordsCount
-			}
+				// Slice up to the mismatch (inclusive of the differing word)
+				limit1 := mismatchIdx + 1
+				if limit1 > p1WordsCount {
+					limit1 = p1WordsCount
+				}
+				limit2 := mismatchIdx + 1
+				if limit2 > p2WordsCount {
+					limit2 = p2WordsCount
+				}
 
-			snippet1 := strings.Join(words1[:limit1], " ")
-			snippet2 := strings.Join(words2[:limit2], " ")
+				snippet1 := strings.Join(words1[:limit1], " ")
+				snippet2 := strings.Join(words2[:limit2], " ")
 
-			fmt.Printf("Mismatch found at paragraph index %d!\n", i)
+				fmt.Printf("❌ Mismatch found at paragraph index %d!\n", i)
+				fmt.Println(strings.Repeat("-", 60))
+				fmt.Printf("Filename: %s (Index: %d)\n", file1Name, i)
+				fmt.Printf("Up to mismatch: \"%s\" (%d words)\n\n", snippet1, p1WordsCount)
+				fmt.Printf("Filename: %s (Index: %d)\n", file2Name, i)
+				fmt.Printf("Up to mismatch: \"%s\" (%d words)\n", snippet2, p2WordsCount)
+				fmt.Println(strings.Repeat("-", 60))
+				os.Exit(1)
+			}
+		} else if i >= len1 {
+			// Case B: File 2 has an extra paragraph that File 1 does not have
+			fmt.Printf("❌ Mismatch found at paragraph index %d! (Paragraph count mismatch)\n", i)
 			fmt.Println(strings.Repeat("-", 60))
 			fmt.Printf("Filename: %s (Index: %d)\n", file1Name, i)
-			fmt.Printf("Up to mismatch: \"%s\"\n\n", snippet1)
+			fmt.Println("[No corresponding paragraph exists — File 1 ended early]")
+			fmt.Println()
 			fmt.Printf("Filename: %s (Index: %d)\n", file2Name, i)
-			fmt.Printf("Up to mismatch: \"%s\"\n", snippet2)
+			fmt.Printf("Extra Paragraph Content: \"%s\"\n", paragraphs2[i])
 			fmt.Println(strings.Repeat("-", 60))
-			
+			os.Exit(1)
+		} else if i >= len2 {
+			// Case C: File 1 has an extra paragraph that File 2 does not have
+			fmt.Printf("❌ Mismatch found at paragraph index %d! (Paragraph count mismatch)\n", i)
+			fmt.Println(strings.Repeat("-", 60))
+			fmt.Printf("Filename: %s (Index: %d)\n", file1Name, i)
+			fmt.Printf("Extra Paragraph Content: \"%s\"\n", paragraphs1[i])
+			fmt.Println()
+			fmt.Printf("Filename: %s (Index: %d)\n", file2Name, i)
+			fmt.Println("[No corresponding paragraph exists — File 2 ended early]")
+			fmt.Println(strings.Repeat("-", 60))
 			os.Exit(1)
 		}
 	}
 
-	fmt.Println("Success! Both files have the same number of paragraphs, and each corresponding paragraph has the exact same word count.")
+	fmt.Println("✅ Success! Both files have the same number of paragraphs, and each corresponding paragraph has the exact same word count.")
 }
