@@ -1,6 +1,12 @@
 # README
 
-This file converts the output of `se lint` to a CSV file. 
+This file converts the output of `se lint` to a CSV file. It is assumes:
+
+- the input file is `lint.txt`
+- the output file will `lint.txt`
+- Run: go run lint2csv.go
+
+This code was written by Gemini. See Code Details below.
 
 ## Lint Output
 
