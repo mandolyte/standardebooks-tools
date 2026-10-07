@@ -3,7 +3,7 @@
 This file converts the output of `se lint` to a CSV file. It is assumes:
 
 - the input file is `lint.txt`
-- the output file will `lint.txt`
+- the output file will `lint.csv`
 - Run: go run lint2csv.go
 
 This code was written by Gemini. See Code Details below.
